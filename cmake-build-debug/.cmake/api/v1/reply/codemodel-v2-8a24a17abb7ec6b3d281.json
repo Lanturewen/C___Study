@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "C___Study",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CMakeCXXCompilerId::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CMakeCXXCompilerId-Debug-359d43c52539e4e48b64.json",
+					"name" : "CMakeCXXCompilerId",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LeetCode_242::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LeetCode_242-Debug-3efa7c9417b1649d464d.json",
+					"name" : "LeetCode_242",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LeetCode_349::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LeetCode_349-Debug-2fee46a9ce991c56c0e9.json",
+					"name" : "LeetCode_349",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ListNode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ListNode-Debug-8bad2cef725ac24f929e.json",
+					"name" : "ListNode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TreeNode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TreeNode-Debug-182a3429dc343572e817.json",
+					"name" : "TreeNode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cmp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cmp-Debug-6e07e923a8e89cf32c1b.json",
+					"name" : "cmp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "quickSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-quickSort-Debug-e20e3d2696d4a0a0a98e.json",
+					"name" : "quickSort",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/lanture/CLionProjects/C___Study/cmake-build-debug",
+		"source" : "/Users/lanture/CLionProjects/C___Study"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
