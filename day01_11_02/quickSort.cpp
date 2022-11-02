@@ -1,8 +1,9 @@
 //
 // Created by Lanture on 2022/11/2.
 //
-
-#include<bits/stdc++.h>
+//#include<bits/stdc++.h>
+#include<vector>
+#include<iostream>
 using namespace std;
 
 class solution{
@@ -33,7 +34,7 @@ public:
     }
 };
 
-int main1(){
+int main01(){
     solution s;
     vector<int> vec = {1,3,4,5,2,1};
     s.mySort(vec,0,vec.size()-1);
