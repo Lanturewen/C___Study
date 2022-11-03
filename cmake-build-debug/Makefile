@@ -143,6 +143,19 @@ LeetCode_242/fast:
 .PHONY : LeetCode_242/fast
 
 #=============================================================================
+# Target rules for targets named LeetCode_347
+
+# Build rule for target.
+LeetCode_347: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 LeetCode_347
+.PHONY : LeetCode_347
+
+# fast build rule for target.
+LeetCode_347/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_347.dir/build.make CMakeFiles/LeetCode_347.dir/build
+.PHONY : LeetCode_347/fast
+
+#=============================================================================
 # Target rules for targets named LeetCode_349
 
 # Build rule for target.
@@ -254,6 +267,51 @@ day01_11_02/LeetCode_242.s: day01_11_02/LeetCode_242.cpp.s
 day01_11_02/LeetCode_242.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_242.dir/build.make CMakeFiles/LeetCode_242.dir/day01_11_02/LeetCode_242.cpp.s
 .PHONY : day01_11_02/LeetCode_242.cpp.s
+
+day01_11_02/LeetCode_347.o: day01_11_02/LeetCode_347.cpp.o
+.PHONY : day01_11_02/LeetCode_347.o
+
+# target to build an object file
+day01_11_02/LeetCode_347.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CMakeCXXCompilerId.dir/build.make CMakeFiles/CMakeCXXCompilerId.dir/day01_11_02/LeetCode_347.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_242.dir/build.make CMakeFiles/LeetCode_242.dir/day01_11_02/LeetCode_347.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_347.dir/build.make CMakeFiles/LeetCode_347.dir/day01_11_02/LeetCode_347.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_349.dir/build.make CMakeFiles/LeetCode_349.dir/day01_11_02/LeetCode_347.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ListNode.dir/build.make CMakeFiles/ListNode.dir/day01_11_02/LeetCode_347.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TreeNode.dir/build.make CMakeFiles/TreeNode.dir/day01_11_02/LeetCode_347.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cmp.dir/build.make CMakeFiles/cmp.dir/day01_11_02/LeetCode_347.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quickSort.dir/build.make CMakeFiles/quickSort.dir/day01_11_02/LeetCode_347.cpp.o
+.PHONY : day01_11_02/LeetCode_347.cpp.o
+
+day01_11_02/LeetCode_347.i: day01_11_02/LeetCode_347.cpp.i
+.PHONY : day01_11_02/LeetCode_347.i
+
+# target to preprocess a source file
+day01_11_02/LeetCode_347.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CMakeCXXCompilerId.dir/build.make CMakeFiles/CMakeCXXCompilerId.dir/day01_11_02/LeetCode_347.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_242.dir/build.make CMakeFiles/LeetCode_242.dir/day01_11_02/LeetCode_347.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_347.dir/build.make CMakeFiles/LeetCode_347.dir/day01_11_02/LeetCode_347.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_349.dir/build.make CMakeFiles/LeetCode_349.dir/day01_11_02/LeetCode_347.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ListNode.dir/build.make CMakeFiles/ListNode.dir/day01_11_02/LeetCode_347.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TreeNode.dir/build.make CMakeFiles/TreeNode.dir/day01_11_02/LeetCode_347.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cmp.dir/build.make CMakeFiles/cmp.dir/day01_11_02/LeetCode_347.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quickSort.dir/build.make CMakeFiles/quickSort.dir/day01_11_02/LeetCode_347.cpp.i
+.PHONY : day01_11_02/LeetCode_347.cpp.i
+
+day01_11_02/LeetCode_347.s: day01_11_02/LeetCode_347.cpp.s
+.PHONY : day01_11_02/LeetCode_347.s
+
+# target to generate assembly for a file
+day01_11_02/LeetCode_347.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CMakeCXXCompilerId.dir/build.make CMakeFiles/CMakeCXXCompilerId.dir/day01_11_02/LeetCode_347.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_242.dir/build.make CMakeFiles/LeetCode_242.dir/day01_11_02/LeetCode_347.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_347.dir/build.make CMakeFiles/LeetCode_347.dir/day01_11_02/LeetCode_347.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LeetCode_349.dir/build.make CMakeFiles/LeetCode_349.dir/day01_11_02/LeetCode_347.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ListNode.dir/build.make CMakeFiles/ListNode.dir/day01_11_02/LeetCode_347.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TreeNode.dir/build.make CMakeFiles/TreeNode.dir/day01_11_02/LeetCode_347.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cmp.dir/build.make CMakeFiles/cmp.dir/day01_11_02/LeetCode_347.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/quickSort.dir/build.make CMakeFiles/quickSort.dir/day01_11_02/LeetCode_347.cpp.s
+.PHONY : day01_11_02/LeetCode_347.cpp.s
 
 day01_11_02/LeetCode_349.o: day01_11_02/LeetCode_349.cpp.o
 .PHONY : day01_11_02/LeetCode_349.o
@@ -385,6 +443,7 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... CMakeCXXCompilerId"
 	@echo "... LeetCode_242"
+	@echo "... LeetCode_347"
 	@echo "... LeetCode_349"
 	@echo "... ListNode"
 	@echo "... TreeNode"
@@ -396,6 +455,9 @@ help:
 	@echo "... day01_11_02/LeetCode_242.o"
 	@echo "... day01_11_02/LeetCode_242.i"
 	@echo "... day01_11_02/LeetCode_242.s"
+	@echo "... day01_11_02/LeetCode_347.o"
+	@echo "... day01_11_02/LeetCode_347.i"
+	@echo "... day01_11_02/LeetCode_347.s"
 	@echo "... day01_11_02/LeetCode_349.o"
 	@echo "... day01_11_02/LeetCode_349.i"
 	@echo "... day01_11_02/LeetCode_349.s"

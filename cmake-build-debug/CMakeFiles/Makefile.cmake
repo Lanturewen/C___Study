@@ -52,6 +52,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/CMakeCXXCompilerId.dir/DependInfo.cmake"
   "CMakeFiles/LeetCode_242.dir/DependInfo.cmake"
+  "CMakeFiles/LeetCode_347.dir/DependInfo.cmake"
   "CMakeFiles/LeetCode_349.dir/DependInfo.cmake"
   "CMakeFiles/ListNode.dir/DependInfo.cmake"
   "CMakeFiles/TreeNode.dir/DependInfo.cmake"

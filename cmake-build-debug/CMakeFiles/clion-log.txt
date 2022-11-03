@@ -1,6 +1,7 @@
 /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /Users/lanture/CLionProjects/C___Study -B /Users/lanture/CLionProjects/C___Study/cmake-build-debug
     -- /Users/lanture/CLionProjects/C___Study/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdCXX/CMakeCXXCompilerId.cpp will be compiled to bin/CMakeCXXCompilerId
     -- /Users/lanture/CLionProjects/C___Study/day01_11_02/LeetCode_242.cpp will be compiled to bin/LeetCode_242
+    -- /Users/lanture/CLionProjects/C___Study/day01_11_02/LeetCode_347.cpp will be compiled to bin/LeetCode_347
     -- /Users/lanture/CLionProjects/C___Study/day01_11_02/LeetCode_349.cpp will be compiled to bin/LeetCode_349
     -- /Users/lanture/CLionProjects/C___Study/day01_11_02/ListNode.cpp will be compiled to bin/ListNode
     -- /Users/lanture/CLionProjects/C___Study/day01_11_02/TreeNode.cpp will be compiled to bin/TreeNode

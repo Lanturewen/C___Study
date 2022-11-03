@@ -1,5 +1,6 @@
 /Users/lanture/CLionProjects/C___Study/cmake-build-debug/CMakeFiles/CMakeCXXCompilerId.dir
 /Users/lanture/CLionProjects/C___Study/cmake-build-debug/CMakeFiles/LeetCode_242.dir
+/Users/lanture/CLionProjects/C___Study/cmake-build-debug/CMakeFiles/LeetCode_347.dir
 /Users/lanture/CLionProjects/C___Study/cmake-build-debug/CMakeFiles/LeetCode_349.dir
 /Users/lanture/CLionProjects/C___Study/cmake-build-debug/CMakeFiles/ListNode.dir
 /Users/lanture/CLionProjects/C___Study/cmake-build-debug/CMakeFiles/TreeNode.dir
