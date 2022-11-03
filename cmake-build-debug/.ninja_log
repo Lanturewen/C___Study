@@ -1,9 +1,3 @@
 # ninja log v5
-0	378	6890923748480640	CMakeFiles/C___Study.dir/main.cpp.obj	d52e0661d3135e26
-24	217	6890995376160797	CMakeFiles/C___Study.dir/day01_11_02/ListNode.cpp.obj	ee1673fac56a4bd9
-3	1037	6891002288283446	CMakeFiles/C___Study.dir/day01_11_02/LeetCode_242.cpp.obj	828850bfd1cd0bb
-0	335	6891009624958887	build.ninja	28135fb380d76748
+0	335	6891416380783978	build.ninja	28135fb380d76748
 1037	1257	6891002290225522	C___Study.exe	66ce59dc3ca5f750
-4	1114	6891001991394506	CMakeFiles/C___Study.dir/day01_11_02/quickSort.cpp.obj	e3c2ebedd1809dda
-4	506	6890995379088924	CMakeFiles/C___Study.dir/day01_11_02/cmp.cpp.obj	4fe9deb01e7b8310
-43	242	6890995376442948	CMakeFiles/C___Study.dir/day01_11_02/TreeNode.cpp.obj	729496b200468a52

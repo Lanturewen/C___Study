@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/LeetCode_349.dir/day01_11_02/LeetCode_349.cpp.o CMakeFiles/LeetCode_349.dir/day01_11_02/LeetCode_347.cpp.o -o LeetCode_349 
