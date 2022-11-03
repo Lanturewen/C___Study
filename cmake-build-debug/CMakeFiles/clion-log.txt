@@ -1,16 +1,4 @@
 "C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2.4/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\Lanture\CLionProjects\C++_Study -B C:\Users\Lanture\CLionProjects\C++_Study\cmake-build-debug
--- The C compiler identification is GNU 11.2.0
--- The CXX compiler identification is GNU 11.2.0
--- Detecting C compiler ABI info
--- Detecting C compiler ABI info - done
--- Check for working C compiler: C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/gcc.exe - skipped
--- Detecting C compile features
--- Detecting C compile features - done
--- Detecting CXX compiler ABI info
--- Detecting CXX compiler ABI info - done
--- Check for working CXX compiler: C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/g++.exe - skipped
--- Detecting CXX compile features
--- Detecting CXX compile features - done
     -- C:/Users/Lanture/CLionProjects/C++_Study/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdCXX/CMakeCXXCompilerId.cpp will be compiled to bin/CMakeCXXCompilerId
     -- C:/Users/Lanture/CLionProjects/C++_Study/day01_11_02/LeetCode_242.cpp will be compiled to bin/LeetCode_242
     -- C:/Users/Lanture/CLionProjects/C++_Study/day01_11_02/LeetCode_347.cpp will be compiled to bin/LeetCode_347
@@ -19,6 +7,12 @@
     -- C:/Users/Lanture/CLionProjects/C++_Study/day01_11_02/TreeNode.cpp will be compiled to bin/TreeNode
     -- C:/Users/Lanture/CLionProjects/C++_Study/day01_11_02/cmp.cpp will be compiled to bin/cmp
     -- C:/Users/Lanture/CLionProjects/C++_Study/day01_11_02/quickSort.cpp will be compiled to bin/quickSort
+    -- C:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/Leecode_200.cpp will be compiled to bin/Leecode_200
+    -- C:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_232.cpp will be compiled to bin/LeetCode_232
+    -- C:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_300.cpp will be compiled to bin/LeetCode_300
+    -- C:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_39.cpp will be compiled to bin/LeetCode_39
+    -- C:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_46.cpp will be compiled to bin/LeetCode_46
+    -- C:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_516.cpp will be compiled to bin/LeetCode_516
 -- Configuring done
 -- Generating done
 -- Build files have been written to: C:/Users/Lanture/CLionProjects/C++_Study/cmake-build-debug

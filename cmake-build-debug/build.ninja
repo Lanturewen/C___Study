@@ -54,16 +54,48 @@ build CMakeFiles/CMakeCXXCompilerId.dir/CMakeFiles/3.23.2/CompilerIdCXX/CMakeCXX
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\CMakeCXXCompilerId.dir
   OBJECT_FILE_DIR = CMakeFiles\CMakeCXXCompilerId.dir\CMakeFiles\3.23.2\CompilerIdCXX
-  TARGET_COMPILE_PDB = CMakeFiles\CMakeCXXCompilerId.dir\
-  TARGET_PDB = CMakeCXXCompilerId.pdb
 
 build CMakeFiles/CMakeCXXCompilerId.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER__CMakeCXXCompilerId_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day01_11_02/LeetCode_347.cpp || cmake_object_order_depends_target_CMakeCXXCompilerId
   DEP_FILE = CMakeFiles\CMakeCXXCompilerId.dir\day01_11_02\LeetCode_347.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\CMakeCXXCompilerId.dir
   OBJECT_FILE_DIR = CMakeFiles\CMakeCXXCompilerId.dir\day01_11_02
-  TARGET_COMPILE_PDB = CMakeFiles\CMakeCXXCompilerId.dir\
-  TARGET_PDB = CMakeCXXCompilerId.pdb
+
+build CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/LeetCode_39.cpp.obj: CXX_COMPILER__CMakeCXXCompilerId_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_39.cpp || cmake_object_order_depends_target_CMakeCXXCompilerId
+  DEP_FILE = CMakeFiles\CMakeCXXCompilerId.dir\day02_11_03\LeetCode_39.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\CMakeCXXCompilerId.dir
+  OBJECT_FILE_DIR = CMakeFiles\CMakeCXXCompilerId.dir\day02_11_03
+
+build CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/LeetCode_46.cpp.obj: CXX_COMPILER__CMakeCXXCompilerId_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_46.cpp || cmake_object_order_depends_target_CMakeCXXCompilerId
+  DEP_FILE = CMakeFiles\CMakeCXXCompilerId.dir\day02_11_03\LeetCode_46.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\CMakeCXXCompilerId.dir
+  OBJECT_FILE_DIR = CMakeFiles\CMakeCXXCompilerId.dir\day02_11_03
+
+build CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/LeetCode_300.cpp.obj: CXX_COMPILER__CMakeCXXCompilerId_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_300.cpp || cmake_object_order_depends_target_CMakeCXXCompilerId
+  DEP_FILE = CMakeFiles\CMakeCXXCompilerId.dir\day02_11_03\LeetCode_300.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\CMakeCXXCompilerId.dir
+  OBJECT_FILE_DIR = CMakeFiles\CMakeCXXCompilerId.dir\day02_11_03
+
+build CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/LeetCode_516.cpp.obj: CXX_COMPILER__CMakeCXXCompilerId_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_516.cpp || cmake_object_order_depends_target_CMakeCXXCompilerId
+  DEP_FILE = CMakeFiles\CMakeCXXCompilerId.dir\day02_11_03\LeetCode_516.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\CMakeCXXCompilerId.dir
+  OBJECT_FILE_DIR = CMakeFiles\CMakeCXXCompilerId.dir\day02_11_03
+
+build CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/Leecode_200.cpp.obj: CXX_COMPILER__CMakeCXXCompilerId_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/Leecode_200.cpp || cmake_object_order_depends_target_CMakeCXXCompilerId
+  DEP_FILE = CMakeFiles\CMakeCXXCompilerId.dir\day02_11_03\Leecode_200.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\CMakeCXXCompilerId.dir
+  OBJECT_FILE_DIR = CMakeFiles\CMakeCXXCompilerId.dir\day02_11_03
+
+build CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__CMakeCXXCompilerId_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_232.cpp || cmake_object_order_depends_target_CMakeCXXCompilerId
+  DEP_FILE = CMakeFiles\CMakeCXXCompilerId.dir\day02_11_03\LeetCode_232.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\CMakeCXXCompilerId.dir
+  OBJECT_FILE_DIR = CMakeFiles\CMakeCXXCompilerId.dir\day02_11_03
 
 
 # =============================================================================
@@ -73,16 +105,15 @@ build CMakeFiles/CMakeCXXCompilerId.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_CO
 #############################################
 # Link the executable CMakeCXXCompilerId.exe
 
-build CMakeCXXCompilerId.exe: CXX_EXECUTABLE_LINKER__CMakeCXXCompilerId_Debug CMakeFiles/CMakeCXXCompilerId.dir/CMakeFiles/3.23.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day01_11_02/LeetCode_347.cpp.obj
+build CMakeCXXCompilerId.exe: CXX_EXECUTABLE_LINKER__CMakeCXXCompilerId_Debug CMakeFiles/CMakeCXXCompilerId.dir/CMakeFiles/3.23.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/LeetCode_232.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CMakeCXXCompilerId.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\CMakeCXXCompilerId.dir\
   TARGET_FILE = CMakeCXXCompilerId.exe
   TARGET_IMPLIB = libCMakeCXXCompilerId.dll.a
-  TARGET_PDB = CMakeCXXCompilerId.pdb
+  TARGET_PDB = CMakeCXXCompilerId.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target LeetCode_242
@@ -98,16 +129,48 @@ build CMakeFiles/LeetCode_242.dir/day01_11_02/LeetCode_242.cpp.obj: CXX_COMPILER
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\LeetCode_242.dir
   OBJECT_FILE_DIR = CMakeFiles\LeetCode_242.dir\day01_11_02
-  TARGET_COMPILE_PDB = CMakeFiles\LeetCode_242.dir\
-  TARGET_PDB = LeetCode_242.pdb
 
 build CMakeFiles/LeetCode_242.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER__LeetCode_242_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day01_11_02/LeetCode_347.cpp || cmake_object_order_depends_target_LeetCode_242
   DEP_FILE = CMakeFiles\LeetCode_242.dir\day01_11_02\LeetCode_347.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\LeetCode_242.dir
   OBJECT_FILE_DIR = CMakeFiles\LeetCode_242.dir\day01_11_02
-  TARGET_COMPILE_PDB = CMakeFiles\LeetCode_242.dir\
-  TARGET_PDB = LeetCode_242.pdb
+
+build CMakeFiles/LeetCode_242.dir/day02_11_03/LeetCode_39.cpp.obj: CXX_COMPILER__LeetCode_242_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_39.cpp || cmake_object_order_depends_target_LeetCode_242
+  DEP_FILE = CMakeFiles\LeetCode_242.dir\day02_11_03\LeetCode_39.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_242.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_242.dir\day02_11_03
+
+build CMakeFiles/LeetCode_242.dir/day02_11_03/LeetCode_46.cpp.obj: CXX_COMPILER__LeetCode_242_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_46.cpp || cmake_object_order_depends_target_LeetCode_242
+  DEP_FILE = CMakeFiles\LeetCode_242.dir\day02_11_03\LeetCode_46.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_242.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_242.dir\day02_11_03
+
+build CMakeFiles/LeetCode_242.dir/day02_11_03/LeetCode_300.cpp.obj: CXX_COMPILER__LeetCode_242_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_300.cpp || cmake_object_order_depends_target_LeetCode_242
+  DEP_FILE = CMakeFiles\LeetCode_242.dir\day02_11_03\LeetCode_300.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_242.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_242.dir\day02_11_03
+
+build CMakeFiles/LeetCode_242.dir/day02_11_03/LeetCode_516.cpp.obj: CXX_COMPILER__LeetCode_242_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_516.cpp || cmake_object_order_depends_target_LeetCode_242
+  DEP_FILE = CMakeFiles\LeetCode_242.dir\day02_11_03\LeetCode_516.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_242.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_242.dir\day02_11_03
+
+build CMakeFiles/LeetCode_242.dir/day02_11_03/Leecode_200.cpp.obj: CXX_COMPILER__LeetCode_242_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/Leecode_200.cpp || cmake_object_order_depends_target_LeetCode_242
+  DEP_FILE = CMakeFiles\LeetCode_242.dir\day02_11_03\Leecode_200.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_242.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_242.dir\day02_11_03
+
+build CMakeFiles/LeetCode_242.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__LeetCode_242_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_232.cpp || cmake_object_order_depends_target_LeetCode_242
+  DEP_FILE = CMakeFiles\LeetCode_242.dir\day02_11_03\LeetCode_232.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_242.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_242.dir\day02_11_03
 
 
 # =============================================================================
@@ -117,16 +180,15 @@ build CMakeFiles/LeetCode_242.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER
 #############################################
 # Link the executable LeetCode_242.exe
 
-build LeetCode_242.exe: CXX_EXECUTABLE_LINKER__LeetCode_242_Debug CMakeFiles/LeetCode_242.dir/day01_11_02/LeetCode_242.cpp.obj CMakeFiles/LeetCode_242.dir/day01_11_02/LeetCode_347.cpp.obj
+build LeetCode_242.exe: CXX_EXECUTABLE_LINKER__LeetCode_242_Debug CMakeFiles/LeetCode_242.dir/day01_11_02/LeetCode_242.cpp.obj CMakeFiles/LeetCode_242.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/LeetCode_242.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/LeetCode_242.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/LeetCode_242.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/LeetCode_242.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/LeetCode_242.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/LeetCode_242.dir/day02_11_03/LeetCode_232.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\LeetCode_242.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\LeetCode_242.dir\
   TARGET_FILE = LeetCode_242.exe
   TARGET_IMPLIB = libLeetCode_242.dll.a
-  TARGET_PDB = LeetCode_242.pdb
+  TARGET_PDB = LeetCode_242.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target LeetCode_347
@@ -142,8 +204,42 @@ build CMakeFiles/LeetCode_347.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\LeetCode_347.dir
   OBJECT_FILE_DIR = CMakeFiles\LeetCode_347.dir\day01_11_02
-  TARGET_COMPILE_PDB = CMakeFiles\LeetCode_347.dir\
-  TARGET_PDB = LeetCode_347.pdb
+
+build CMakeFiles/LeetCode_347.dir/day02_11_03/LeetCode_39.cpp.obj: CXX_COMPILER__LeetCode_347_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_39.cpp || cmake_object_order_depends_target_LeetCode_347
+  DEP_FILE = CMakeFiles\LeetCode_347.dir\day02_11_03\LeetCode_39.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_347.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_347.dir\day02_11_03
+
+build CMakeFiles/LeetCode_347.dir/day02_11_03/LeetCode_46.cpp.obj: CXX_COMPILER__LeetCode_347_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_46.cpp || cmake_object_order_depends_target_LeetCode_347
+  DEP_FILE = CMakeFiles\LeetCode_347.dir\day02_11_03\LeetCode_46.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_347.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_347.dir\day02_11_03
+
+build CMakeFiles/LeetCode_347.dir/day02_11_03/LeetCode_300.cpp.obj: CXX_COMPILER__LeetCode_347_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_300.cpp || cmake_object_order_depends_target_LeetCode_347
+  DEP_FILE = CMakeFiles\LeetCode_347.dir\day02_11_03\LeetCode_300.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_347.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_347.dir\day02_11_03
+
+build CMakeFiles/LeetCode_347.dir/day02_11_03/LeetCode_516.cpp.obj: CXX_COMPILER__LeetCode_347_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_516.cpp || cmake_object_order_depends_target_LeetCode_347
+  DEP_FILE = CMakeFiles\LeetCode_347.dir\day02_11_03\LeetCode_516.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_347.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_347.dir\day02_11_03
+
+build CMakeFiles/LeetCode_347.dir/day02_11_03/Leecode_200.cpp.obj: CXX_COMPILER__LeetCode_347_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/Leecode_200.cpp || cmake_object_order_depends_target_LeetCode_347
+  DEP_FILE = CMakeFiles\LeetCode_347.dir\day02_11_03\Leecode_200.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_347.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_347.dir\day02_11_03
+
+build CMakeFiles/LeetCode_347.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__LeetCode_347_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_232.cpp || cmake_object_order_depends_target_LeetCode_347
+  DEP_FILE = CMakeFiles\LeetCode_347.dir\day02_11_03\LeetCode_232.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_347.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_347.dir\day02_11_03
 
 
 # =============================================================================
@@ -153,16 +249,15 @@ build CMakeFiles/LeetCode_347.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER
 #############################################
 # Link the executable LeetCode_347.exe
 
-build LeetCode_347.exe: CXX_EXECUTABLE_LINKER__LeetCode_347_Debug CMakeFiles/LeetCode_347.dir/day01_11_02/LeetCode_347.cpp.obj
+build LeetCode_347.exe: CXX_EXECUTABLE_LINKER__LeetCode_347_Debug CMakeFiles/LeetCode_347.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/LeetCode_347.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/LeetCode_347.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/LeetCode_347.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/LeetCode_347.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/LeetCode_347.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/LeetCode_347.dir/day02_11_03/LeetCode_232.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\LeetCode_347.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\LeetCode_347.dir\
   TARGET_FILE = LeetCode_347.exe
   TARGET_IMPLIB = libLeetCode_347.dll.a
-  TARGET_PDB = LeetCode_347.pdb
+  TARGET_PDB = LeetCode_347.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target LeetCode_349
@@ -178,16 +273,48 @@ build CMakeFiles/LeetCode_349.dir/day01_11_02/LeetCode_349.cpp.obj: CXX_COMPILER
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\LeetCode_349.dir
   OBJECT_FILE_DIR = CMakeFiles\LeetCode_349.dir\day01_11_02
-  TARGET_COMPILE_PDB = CMakeFiles\LeetCode_349.dir\
-  TARGET_PDB = LeetCode_349.pdb
 
 build CMakeFiles/LeetCode_349.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER__LeetCode_349_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day01_11_02/LeetCode_347.cpp || cmake_object_order_depends_target_LeetCode_349
   DEP_FILE = CMakeFiles\LeetCode_349.dir\day01_11_02\LeetCode_347.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\LeetCode_349.dir
   OBJECT_FILE_DIR = CMakeFiles\LeetCode_349.dir\day01_11_02
-  TARGET_COMPILE_PDB = CMakeFiles\LeetCode_349.dir\
-  TARGET_PDB = LeetCode_349.pdb
+
+build CMakeFiles/LeetCode_349.dir/day02_11_03/LeetCode_39.cpp.obj: CXX_COMPILER__LeetCode_349_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_39.cpp || cmake_object_order_depends_target_LeetCode_349
+  DEP_FILE = CMakeFiles\LeetCode_349.dir\day02_11_03\LeetCode_39.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_349.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_349.dir\day02_11_03
+
+build CMakeFiles/LeetCode_349.dir/day02_11_03/LeetCode_46.cpp.obj: CXX_COMPILER__LeetCode_349_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_46.cpp || cmake_object_order_depends_target_LeetCode_349
+  DEP_FILE = CMakeFiles\LeetCode_349.dir\day02_11_03\LeetCode_46.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_349.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_349.dir\day02_11_03
+
+build CMakeFiles/LeetCode_349.dir/day02_11_03/LeetCode_300.cpp.obj: CXX_COMPILER__LeetCode_349_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_300.cpp || cmake_object_order_depends_target_LeetCode_349
+  DEP_FILE = CMakeFiles\LeetCode_349.dir\day02_11_03\LeetCode_300.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_349.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_349.dir\day02_11_03
+
+build CMakeFiles/LeetCode_349.dir/day02_11_03/LeetCode_516.cpp.obj: CXX_COMPILER__LeetCode_349_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_516.cpp || cmake_object_order_depends_target_LeetCode_349
+  DEP_FILE = CMakeFiles\LeetCode_349.dir\day02_11_03\LeetCode_516.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_349.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_349.dir\day02_11_03
+
+build CMakeFiles/LeetCode_349.dir/day02_11_03/Leecode_200.cpp.obj: CXX_COMPILER__LeetCode_349_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/Leecode_200.cpp || cmake_object_order_depends_target_LeetCode_349
+  DEP_FILE = CMakeFiles\LeetCode_349.dir\day02_11_03\Leecode_200.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_349.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_349.dir\day02_11_03
+
+build CMakeFiles/LeetCode_349.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__LeetCode_349_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_232.cpp || cmake_object_order_depends_target_LeetCode_349
+  DEP_FILE = CMakeFiles\LeetCode_349.dir\day02_11_03\LeetCode_232.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_349.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_349.dir\day02_11_03
 
 
 # =============================================================================
@@ -197,16 +324,15 @@ build CMakeFiles/LeetCode_349.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER
 #############################################
 # Link the executable LeetCode_349.exe
 
-build LeetCode_349.exe: CXX_EXECUTABLE_LINKER__LeetCode_349_Debug CMakeFiles/LeetCode_349.dir/day01_11_02/LeetCode_349.cpp.obj CMakeFiles/LeetCode_349.dir/day01_11_02/LeetCode_347.cpp.obj
+build LeetCode_349.exe: CXX_EXECUTABLE_LINKER__LeetCode_349_Debug CMakeFiles/LeetCode_349.dir/day01_11_02/LeetCode_349.cpp.obj CMakeFiles/LeetCode_349.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/LeetCode_349.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/LeetCode_349.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/LeetCode_349.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/LeetCode_349.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/LeetCode_349.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/LeetCode_349.dir/day02_11_03/LeetCode_232.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\LeetCode_349.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\LeetCode_349.dir\
   TARGET_FILE = LeetCode_349.exe
   TARGET_IMPLIB = libLeetCode_349.dll.a
-  TARGET_PDB = LeetCode_349.pdb
+  TARGET_PDB = LeetCode_349.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ListNode
@@ -222,16 +348,48 @@ build CMakeFiles/ListNode.dir/day01_11_02/ListNode.cpp.obj: CXX_COMPILER__ListNo
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\ListNode.dir
   OBJECT_FILE_DIR = CMakeFiles\ListNode.dir\day01_11_02
-  TARGET_COMPILE_PDB = CMakeFiles\ListNode.dir\
-  TARGET_PDB = ListNode.pdb
 
 build CMakeFiles/ListNode.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER__ListNode_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day01_11_02/LeetCode_347.cpp || cmake_object_order_depends_target_ListNode
   DEP_FILE = CMakeFiles\ListNode.dir\day01_11_02\LeetCode_347.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\ListNode.dir
   OBJECT_FILE_DIR = CMakeFiles\ListNode.dir\day01_11_02
-  TARGET_COMPILE_PDB = CMakeFiles\ListNode.dir\
-  TARGET_PDB = ListNode.pdb
+
+build CMakeFiles/ListNode.dir/day02_11_03/LeetCode_39.cpp.obj: CXX_COMPILER__ListNode_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_39.cpp || cmake_object_order_depends_target_ListNode
+  DEP_FILE = CMakeFiles\ListNode.dir\day02_11_03\LeetCode_39.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\ListNode.dir
+  OBJECT_FILE_DIR = CMakeFiles\ListNode.dir\day02_11_03
+
+build CMakeFiles/ListNode.dir/day02_11_03/LeetCode_46.cpp.obj: CXX_COMPILER__ListNode_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_46.cpp || cmake_object_order_depends_target_ListNode
+  DEP_FILE = CMakeFiles\ListNode.dir\day02_11_03\LeetCode_46.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\ListNode.dir
+  OBJECT_FILE_DIR = CMakeFiles\ListNode.dir\day02_11_03
+
+build CMakeFiles/ListNode.dir/day02_11_03/LeetCode_300.cpp.obj: CXX_COMPILER__ListNode_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_300.cpp || cmake_object_order_depends_target_ListNode
+  DEP_FILE = CMakeFiles\ListNode.dir\day02_11_03\LeetCode_300.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\ListNode.dir
+  OBJECT_FILE_DIR = CMakeFiles\ListNode.dir\day02_11_03
+
+build CMakeFiles/ListNode.dir/day02_11_03/LeetCode_516.cpp.obj: CXX_COMPILER__ListNode_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_516.cpp || cmake_object_order_depends_target_ListNode
+  DEP_FILE = CMakeFiles\ListNode.dir\day02_11_03\LeetCode_516.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\ListNode.dir
+  OBJECT_FILE_DIR = CMakeFiles\ListNode.dir\day02_11_03
+
+build CMakeFiles/ListNode.dir/day02_11_03/Leecode_200.cpp.obj: CXX_COMPILER__ListNode_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/Leecode_200.cpp || cmake_object_order_depends_target_ListNode
+  DEP_FILE = CMakeFiles\ListNode.dir\day02_11_03\Leecode_200.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\ListNode.dir
+  OBJECT_FILE_DIR = CMakeFiles\ListNode.dir\day02_11_03
+
+build CMakeFiles/ListNode.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__ListNode_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_232.cpp || cmake_object_order_depends_target_ListNode
+  DEP_FILE = CMakeFiles\ListNode.dir\day02_11_03\LeetCode_232.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\ListNode.dir
+  OBJECT_FILE_DIR = CMakeFiles\ListNode.dir\day02_11_03
 
 
 # =============================================================================
@@ -241,16 +399,15 @@ build CMakeFiles/ListNode.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER__Li
 #############################################
 # Link the executable ListNode.exe
 
-build ListNode.exe: CXX_EXECUTABLE_LINKER__ListNode_Debug CMakeFiles/ListNode.dir/day01_11_02/ListNode.cpp.obj CMakeFiles/ListNode.dir/day01_11_02/LeetCode_347.cpp.obj
+build ListNode.exe: CXX_EXECUTABLE_LINKER__ListNode_Debug CMakeFiles/ListNode.dir/day01_11_02/ListNode.cpp.obj CMakeFiles/ListNode.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/ListNode.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/ListNode.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/ListNode.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/ListNode.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/ListNode.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/ListNode.dir/day02_11_03/LeetCode_232.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ListNode.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ListNode.dir\
   TARGET_FILE = ListNode.exe
   TARGET_IMPLIB = libListNode.dll.a
-  TARGET_PDB = ListNode.pdb
+  TARGET_PDB = ListNode.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target TreeNode
@@ -266,16 +423,48 @@ build CMakeFiles/TreeNode.dir/day01_11_02/TreeNode.cpp.obj: CXX_COMPILER__TreeNo
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\TreeNode.dir
   OBJECT_FILE_DIR = CMakeFiles\TreeNode.dir\day01_11_02
-  TARGET_COMPILE_PDB = CMakeFiles\TreeNode.dir\
-  TARGET_PDB = TreeNode.pdb
 
 build CMakeFiles/TreeNode.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER__TreeNode_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day01_11_02/LeetCode_347.cpp || cmake_object_order_depends_target_TreeNode
   DEP_FILE = CMakeFiles\TreeNode.dir\day01_11_02\LeetCode_347.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\TreeNode.dir
   OBJECT_FILE_DIR = CMakeFiles\TreeNode.dir\day01_11_02
-  TARGET_COMPILE_PDB = CMakeFiles\TreeNode.dir\
-  TARGET_PDB = TreeNode.pdb
+
+build CMakeFiles/TreeNode.dir/day02_11_03/LeetCode_39.cpp.obj: CXX_COMPILER__TreeNode_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_39.cpp || cmake_object_order_depends_target_TreeNode
+  DEP_FILE = CMakeFiles\TreeNode.dir\day02_11_03\LeetCode_39.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\TreeNode.dir
+  OBJECT_FILE_DIR = CMakeFiles\TreeNode.dir\day02_11_03
+
+build CMakeFiles/TreeNode.dir/day02_11_03/LeetCode_46.cpp.obj: CXX_COMPILER__TreeNode_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_46.cpp || cmake_object_order_depends_target_TreeNode
+  DEP_FILE = CMakeFiles\TreeNode.dir\day02_11_03\LeetCode_46.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\TreeNode.dir
+  OBJECT_FILE_DIR = CMakeFiles\TreeNode.dir\day02_11_03
+
+build CMakeFiles/TreeNode.dir/day02_11_03/LeetCode_300.cpp.obj: CXX_COMPILER__TreeNode_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_300.cpp || cmake_object_order_depends_target_TreeNode
+  DEP_FILE = CMakeFiles\TreeNode.dir\day02_11_03\LeetCode_300.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\TreeNode.dir
+  OBJECT_FILE_DIR = CMakeFiles\TreeNode.dir\day02_11_03
+
+build CMakeFiles/TreeNode.dir/day02_11_03/LeetCode_516.cpp.obj: CXX_COMPILER__TreeNode_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_516.cpp || cmake_object_order_depends_target_TreeNode
+  DEP_FILE = CMakeFiles\TreeNode.dir\day02_11_03\LeetCode_516.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\TreeNode.dir
+  OBJECT_FILE_DIR = CMakeFiles\TreeNode.dir\day02_11_03
+
+build CMakeFiles/TreeNode.dir/day02_11_03/Leecode_200.cpp.obj: CXX_COMPILER__TreeNode_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/Leecode_200.cpp || cmake_object_order_depends_target_TreeNode
+  DEP_FILE = CMakeFiles\TreeNode.dir\day02_11_03\Leecode_200.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\TreeNode.dir
+  OBJECT_FILE_DIR = CMakeFiles\TreeNode.dir\day02_11_03
+
+build CMakeFiles/TreeNode.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__TreeNode_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_232.cpp || cmake_object_order_depends_target_TreeNode
+  DEP_FILE = CMakeFiles\TreeNode.dir\day02_11_03\LeetCode_232.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\TreeNode.dir
+  OBJECT_FILE_DIR = CMakeFiles\TreeNode.dir\day02_11_03
 
 
 # =============================================================================
@@ -285,16 +474,15 @@ build CMakeFiles/TreeNode.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER__Tr
 #############################################
 # Link the executable TreeNode.exe
 
-build TreeNode.exe: CXX_EXECUTABLE_LINKER__TreeNode_Debug CMakeFiles/TreeNode.dir/day01_11_02/TreeNode.cpp.obj CMakeFiles/TreeNode.dir/day01_11_02/LeetCode_347.cpp.obj
+build TreeNode.exe: CXX_EXECUTABLE_LINKER__TreeNode_Debug CMakeFiles/TreeNode.dir/day01_11_02/TreeNode.cpp.obj CMakeFiles/TreeNode.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/TreeNode.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/TreeNode.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/TreeNode.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/TreeNode.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/TreeNode.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/TreeNode.dir/day02_11_03/LeetCode_232.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\TreeNode.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\TreeNode.dir\
   TARGET_FILE = TreeNode.exe
   TARGET_IMPLIB = libTreeNode.dll.a
-  TARGET_PDB = TreeNode.pdb
+  TARGET_PDB = TreeNode.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target cmp
@@ -310,16 +498,48 @@ build CMakeFiles/cmp.dir/day01_11_02/cmp.cpp.obj: CXX_COMPILER__cmp_Debug C$:/Us
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\cmp.dir
   OBJECT_FILE_DIR = CMakeFiles\cmp.dir\day01_11_02
-  TARGET_COMPILE_PDB = CMakeFiles\cmp.dir\
-  TARGET_PDB = cmp.pdb
 
 build CMakeFiles/cmp.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER__cmp_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day01_11_02/LeetCode_347.cpp || cmake_object_order_depends_target_cmp
   DEP_FILE = CMakeFiles\cmp.dir\day01_11_02\LeetCode_347.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\cmp.dir
   OBJECT_FILE_DIR = CMakeFiles\cmp.dir\day01_11_02
-  TARGET_COMPILE_PDB = CMakeFiles\cmp.dir\
-  TARGET_PDB = cmp.pdb
+
+build CMakeFiles/cmp.dir/day02_11_03/LeetCode_39.cpp.obj: CXX_COMPILER__cmp_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_39.cpp || cmake_object_order_depends_target_cmp
+  DEP_FILE = CMakeFiles\cmp.dir\day02_11_03\LeetCode_39.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\cmp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cmp.dir\day02_11_03
+
+build CMakeFiles/cmp.dir/day02_11_03/LeetCode_46.cpp.obj: CXX_COMPILER__cmp_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_46.cpp || cmake_object_order_depends_target_cmp
+  DEP_FILE = CMakeFiles\cmp.dir\day02_11_03\LeetCode_46.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\cmp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cmp.dir\day02_11_03
+
+build CMakeFiles/cmp.dir/day02_11_03/LeetCode_300.cpp.obj: CXX_COMPILER__cmp_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_300.cpp || cmake_object_order_depends_target_cmp
+  DEP_FILE = CMakeFiles\cmp.dir\day02_11_03\LeetCode_300.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\cmp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cmp.dir\day02_11_03
+
+build CMakeFiles/cmp.dir/day02_11_03/LeetCode_516.cpp.obj: CXX_COMPILER__cmp_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_516.cpp || cmake_object_order_depends_target_cmp
+  DEP_FILE = CMakeFiles\cmp.dir\day02_11_03\LeetCode_516.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\cmp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cmp.dir\day02_11_03
+
+build CMakeFiles/cmp.dir/day02_11_03/Leecode_200.cpp.obj: CXX_COMPILER__cmp_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/Leecode_200.cpp || cmake_object_order_depends_target_cmp
+  DEP_FILE = CMakeFiles\cmp.dir\day02_11_03\Leecode_200.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\cmp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cmp.dir\day02_11_03
+
+build CMakeFiles/cmp.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__cmp_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_232.cpp || cmake_object_order_depends_target_cmp
+  DEP_FILE = CMakeFiles\cmp.dir\day02_11_03\LeetCode_232.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\cmp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cmp.dir\day02_11_03
 
 
 # =============================================================================
@@ -329,16 +549,15 @@ build CMakeFiles/cmp.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER__cmp_Deb
 #############################################
 # Link the executable cmp.exe
 
-build cmp.exe: CXX_EXECUTABLE_LINKER__cmp_Debug CMakeFiles/cmp.dir/day01_11_02/cmp.cpp.obj CMakeFiles/cmp.dir/day01_11_02/LeetCode_347.cpp.obj
+build cmp.exe: CXX_EXECUTABLE_LINKER__cmp_Debug CMakeFiles/cmp.dir/day01_11_02/cmp.cpp.obj CMakeFiles/cmp.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/cmp.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/cmp.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/cmp.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/cmp.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/cmp.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/cmp.dir/day02_11_03/LeetCode_232.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\cmp.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\cmp.dir\
   TARGET_FILE = cmp.exe
   TARGET_IMPLIB = libcmp.dll.a
-  TARGET_PDB = cmp.pdb
+  TARGET_PDB = cmp.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target quickSort
@@ -354,16 +573,48 @@ build CMakeFiles/quickSort.dir/day01_11_02/quickSort.cpp.obj: CXX_COMPILER__quic
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\quickSort.dir
   OBJECT_FILE_DIR = CMakeFiles\quickSort.dir\day01_11_02
-  TARGET_COMPILE_PDB = CMakeFiles\quickSort.dir\
-  TARGET_PDB = quickSort.pdb
 
 build CMakeFiles/quickSort.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER__quickSort_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day01_11_02/LeetCode_347.cpp || cmake_object_order_depends_target_quickSort
   DEP_FILE = CMakeFiles\quickSort.dir\day01_11_02\LeetCode_347.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\quickSort.dir
   OBJECT_FILE_DIR = CMakeFiles\quickSort.dir\day01_11_02
-  TARGET_COMPILE_PDB = CMakeFiles\quickSort.dir\
-  TARGET_PDB = quickSort.pdb
+
+build CMakeFiles/quickSort.dir/day02_11_03/LeetCode_39.cpp.obj: CXX_COMPILER__quickSort_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_39.cpp || cmake_object_order_depends_target_quickSort
+  DEP_FILE = CMakeFiles\quickSort.dir\day02_11_03\LeetCode_39.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\quickSort.dir
+  OBJECT_FILE_DIR = CMakeFiles\quickSort.dir\day02_11_03
+
+build CMakeFiles/quickSort.dir/day02_11_03/LeetCode_46.cpp.obj: CXX_COMPILER__quickSort_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_46.cpp || cmake_object_order_depends_target_quickSort
+  DEP_FILE = CMakeFiles\quickSort.dir\day02_11_03\LeetCode_46.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\quickSort.dir
+  OBJECT_FILE_DIR = CMakeFiles\quickSort.dir\day02_11_03
+
+build CMakeFiles/quickSort.dir/day02_11_03/LeetCode_300.cpp.obj: CXX_COMPILER__quickSort_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_300.cpp || cmake_object_order_depends_target_quickSort
+  DEP_FILE = CMakeFiles\quickSort.dir\day02_11_03\LeetCode_300.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\quickSort.dir
+  OBJECT_FILE_DIR = CMakeFiles\quickSort.dir\day02_11_03
+
+build CMakeFiles/quickSort.dir/day02_11_03/LeetCode_516.cpp.obj: CXX_COMPILER__quickSort_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_516.cpp || cmake_object_order_depends_target_quickSort
+  DEP_FILE = CMakeFiles\quickSort.dir\day02_11_03\LeetCode_516.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\quickSort.dir
+  OBJECT_FILE_DIR = CMakeFiles\quickSort.dir\day02_11_03
+
+build CMakeFiles/quickSort.dir/day02_11_03/Leecode_200.cpp.obj: CXX_COMPILER__quickSort_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/Leecode_200.cpp || cmake_object_order_depends_target_quickSort
+  DEP_FILE = CMakeFiles\quickSort.dir\day02_11_03\Leecode_200.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\quickSort.dir
+  OBJECT_FILE_DIR = CMakeFiles\quickSort.dir\day02_11_03
+
+build CMakeFiles/quickSort.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__quickSort_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_232.cpp || cmake_object_order_depends_target_quickSort
+  DEP_FILE = CMakeFiles\quickSort.dir\day02_11_03\LeetCode_232.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\quickSort.dir
+  OBJECT_FILE_DIR = CMakeFiles\quickSort.dir\day02_11_03
 
 
 # =============================================================================
@@ -373,16 +624,429 @@ build CMakeFiles/quickSort.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER__q
 #############################################
 # Link the executable quickSort.exe
 
-build quickSort.exe: CXX_EXECUTABLE_LINKER__quickSort_Debug CMakeFiles/quickSort.dir/day01_11_02/quickSort.cpp.obj CMakeFiles/quickSort.dir/day01_11_02/LeetCode_347.cpp.obj
+build quickSort.exe: CXX_EXECUTABLE_LINKER__quickSort_Debug CMakeFiles/quickSort.dir/day01_11_02/quickSort.cpp.obj CMakeFiles/quickSort.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/quickSort.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/quickSort.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/quickSort.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/quickSort.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/quickSort.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/quickSort.dir/day02_11_03/LeetCode_232.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\quickSort.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\quickSort.dir\
   TARGET_FILE = quickSort.exe
   TARGET_IMPLIB = libquickSort.dll.a
-  TARGET_PDB = quickSort.pdb
+  TARGET_PDB = quickSort.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Leecode_200
+
+
+#############################################
+# Order-only phony target for Leecode_200
+
+build cmake_object_order_depends_target_Leecode_200: phony || CMakeFiles/Leecode_200.dir
+
+build CMakeFiles/Leecode_200.dir/day02_11_03/Leecode_200.cpp.obj: CXX_COMPILER__Leecode_200_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/Leecode_200.cpp || cmake_object_order_depends_target_Leecode_200
+  DEP_FILE = CMakeFiles\Leecode_200.dir\day02_11_03\Leecode_200.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Leecode_200.dir
+  OBJECT_FILE_DIR = CMakeFiles\Leecode_200.dir\day02_11_03
+
+build CMakeFiles/Leecode_200.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER__Leecode_200_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day01_11_02/LeetCode_347.cpp || cmake_object_order_depends_target_Leecode_200
+  DEP_FILE = CMakeFiles\Leecode_200.dir\day01_11_02\LeetCode_347.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Leecode_200.dir
+  OBJECT_FILE_DIR = CMakeFiles\Leecode_200.dir\day01_11_02
+
+build CMakeFiles/Leecode_200.dir/day02_11_03/LeetCode_39.cpp.obj: CXX_COMPILER__Leecode_200_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_39.cpp || cmake_object_order_depends_target_Leecode_200
+  DEP_FILE = CMakeFiles\Leecode_200.dir\day02_11_03\LeetCode_39.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Leecode_200.dir
+  OBJECT_FILE_DIR = CMakeFiles\Leecode_200.dir\day02_11_03
+
+build CMakeFiles/Leecode_200.dir/day02_11_03/LeetCode_46.cpp.obj: CXX_COMPILER__Leecode_200_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_46.cpp || cmake_object_order_depends_target_Leecode_200
+  DEP_FILE = CMakeFiles\Leecode_200.dir\day02_11_03\LeetCode_46.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Leecode_200.dir
+  OBJECT_FILE_DIR = CMakeFiles\Leecode_200.dir\day02_11_03
+
+build CMakeFiles/Leecode_200.dir/day02_11_03/LeetCode_300.cpp.obj: CXX_COMPILER__Leecode_200_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_300.cpp || cmake_object_order_depends_target_Leecode_200
+  DEP_FILE = CMakeFiles\Leecode_200.dir\day02_11_03\LeetCode_300.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Leecode_200.dir
+  OBJECT_FILE_DIR = CMakeFiles\Leecode_200.dir\day02_11_03
+
+build CMakeFiles/Leecode_200.dir/day02_11_03/LeetCode_516.cpp.obj: CXX_COMPILER__Leecode_200_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_516.cpp || cmake_object_order_depends_target_Leecode_200
+  DEP_FILE = CMakeFiles\Leecode_200.dir\day02_11_03\LeetCode_516.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Leecode_200.dir
+  OBJECT_FILE_DIR = CMakeFiles\Leecode_200.dir\day02_11_03
+
+build CMakeFiles/Leecode_200.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__Leecode_200_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_232.cpp || cmake_object_order_depends_target_Leecode_200
+  DEP_FILE = CMakeFiles\Leecode_200.dir\day02_11_03\LeetCode_232.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Leecode_200.dir
+  OBJECT_FILE_DIR = CMakeFiles\Leecode_200.dir\day02_11_03
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Leecode_200
+
+
+#############################################
+# Link the executable Leecode_200.exe
+
+build Leecode_200.exe: CXX_EXECUTABLE_LINKER__Leecode_200_Debug CMakeFiles/Leecode_200.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/Leecode_200.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/Leecode_200.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/Leecode_200.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/Leecode_200.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/Leecode_200.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/Leecode_200.dir/day02_11_03/LeetCode_232.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Leecode_200.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Leecode_200.exe
+  TARGET_IMPLIB = libLeecode_200.dll.a
+  TARGET_PDB = Leecode_200.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target LeetCode_232
+
+
+#############################################
+# Order-only phony target for LeetCode_232
+
+build cmake_object_order_depends_target_LeetCode_232: phony || CMakeFiles/LeetCode_232.dir
+
+build CMakeFiles/LeetCode_232.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__LeetCode_232_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_232.cpp || cmake_object_order_depends_target_LeetCode_232
+  DEP_FILE = CMakeFiles\LeetCode_232.dir\day02_11_03\LeetCode_232.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_232.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_232.dir\day02_11_03
+
+build CMakeFiles/LeetCode_232.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER__LeetCode_232_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day01_11_02/LeetCode_347.cpp || cmake_object_order_depends_target_LeetCode_232
+  DEP_FILE = CMakeFiles\LeetCode_232.dir\day01_11_02\LeetCode_347.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_232.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_232.dir\day01_11_02
+
+build CMakeFiles/LeetCode_232.dir/day02_11_03/LeetCode_39.cpp.obj: CXX_COMPILER__LeetCode_232_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_39.cpp || cmake_object_order_depends_target_LeetCode_232
+  DEP_FILE = CMakeFiles\LeetCode_232.dir\day02_11_03\LeetCode_39.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_232.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_232.dir\day02_11_03
+
+build CMakeFiles/LeetCode_232.dir/day02_11_03/LeetCode_46.cpp.obj: CXX_COMPILER__LeetCode_232_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_46.cpp || cmake_object_order_depends_target_LeetCode_232
+  DEP_FILE = CMakeFiles\LeetCode_232.dir\day02_11_03\LeetCode_46.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_232.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_232.dir\day02_11_03
+
+build CMakeFiles/LeetCode_232.dir/day02_11_03/LeetCode_300.cpp.obj: CXX_COMPILER__LeetCode_232_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_300.cpp || cmake_object_order_depends_target_LeetCode_232
+  DEP_FILE = CMakeFiles\LeetCode_232.dir\day02_11_03\LeetCode_300.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_232.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_232.dir\day02_11_03
+
+build CMakeFiles/LeetCode_232.dir/day02_11_03/LeetCode_516.cpp.obj: CXX_COMPILER__LeetCode_232_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_516.cpp || cmake_object_order_depends_target_LeetCode_232
+  DEP_FILE = CMakeFiles\LeetCode_232.dir\day02_11_03\LeetCode_516.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_232.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_232.dir\day02_11_03
+
+build CMakeFiles/LeetCode_232.dir/day02_11_03/Leecode_200.cpp.obj: CXX_COMPILER__LeetCode_232_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/Leecode_200.cpp || cmake_object_order_depends_target_LeetCode_232
+  DEP_FILE = CMakeFiles\LeetCode_232.dir\day02_11_03\Leecode_200.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_232.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_232.dir\day02_11_03
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target LeetCode_232
+
+
+#############################################
+# Link the executable LeetCode_232.exe
+
+build LeetCode_232.exe: CXX_EXECUTABLE_LINKER__LeetCode_232_Debug CMakeFiles/LeetCode_232.dir/day02_11_03/LeetCode_232.cpp.obj CMakeFiles/LeetCode_232.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/LeetCode_232.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/LeetCode_232.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/LeetCode_232.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/LeetCode_232.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/LeetCode_232.dir/day02_11_03/Leecode_200.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\LeetCode_232.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = LeetCode_232.exe
+  TARGET_IMPLIB = libLeetCode_232.dll.a
+  TARGET_PDB = LeetCode_232.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target LeetCode_300
+
+
+#############################################
+# Order-only phony target for LeetCode_300
+
+build cmake_object_order_depends_target_LeetCode_300: phony || CMakeFiles/LeetCode_300.dir
+
+build CMakeFiles/LeetCode_300.dir/day02_11_03/LeetCode_300.cpp.obj: CXX_COMPILER__LeetCode_300_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_300.cpp || cmake_object_order_depends_target_LeetCode_300
+  DEP_FILE = CMakeFiles\LeetCode_300.dir\day02_11_03\LeetCode_300.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_300.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_300.dir\day02_11_03
+
+build CMakeFiles/LeetCode_300.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER__LeetCode_300_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day01_11_02/LeetCode_347.cpp || cmake_object_order_depends_target_LeetCode_300
+  DEP_FILE = CMakeFiles\LeetCode_300.dir\day01_11_02\LeetCode_347.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_300.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_300.dir\day01_11_02
+
+build CMakeFiles/LeetCode_300.dir/day02_11_03/LeetCode_39.cpp.obj: CXX_COMPILER__LeetCode_300_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_39.cpp || cmake_object_order_depends_target_LeetCode_300
+  DEP_FILE = CMakeFiles\LeetCode_300.dir\day02_11_03\LeetCode_39.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_300.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_300.dir\day02_11_03
+
+build CMakeFiles/LeetCode_300.dir/day02_11_03/LeetCode_46.cpp.obj: CXX_COMPILER__LeetCode_300_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_46.cpp || cmake_object_order_depends_target_LeetCode_300
+  DEP_FILE = CMakeFiles\LeetCode_300.dir\day02_11_03\LeetCode_46.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_300.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_300.dir\day02_11_03
+
+build CMakeFiles/LeetCode_300.dir/day02_11_03/LeetCode_516.cpp.obj: CXX_COMPILER__LeetCode_300_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_516.cpp || cmake_object_order_depends_target_LeetCode_300
+  DEP_FILE = CMakeFiles\LeetCode_300.dir\day02_11_03\LeetCode_516.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_300.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_300.dir\day02_11_03
+
+build CMakeFiles/LeetCode_300.dir/day02_11_03/Leecode_200.cpp.obj: CXX_COMPILER__LeetCode_300_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/Leecode_200.cpp || cmake_object_order_depends_target_LeetCode_300
+  DEP_FILE = CMakeFiles\LeetCode_300.dir\day02_11_03\Leecode_200.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_300.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_300.dir\day02_11_03
+
+build CMakeFiles/LeetCode_300.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__LeetCode_300_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_232.cpp || cmake_object_order_depends_target_LeetCode_300
+  DEP_FILE = CMakeFiles\LeetCode_300.dir\day02_11_03\LeetCode_232.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_300.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_300.dir\day02_11_03
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target LeetCode_300
+
+
+#############################################
+# Link the executable LeetCode_300.exe
+
+build LeetCode_300.exe: CXX_EXECUTABLE_LINKER__LeetCode_300_Debug CMakeFiles/LeetCode_300.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/LeetCode_300.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/LeetCode_300.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/LeetCode_300.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/LeetCode_300.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/LeetCode_300.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/LeetCode_300.dir/day02_11_03/LeetCode_232.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\LeetCode_300.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = LeetCode_300.exe
+  TARGET_IMPLIB = libLeetCode_300.dll.a
+  TARGET_PDB = LeetCode_300.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target LeetCode_39
+
+
+#############################################
+# Order-only phony target for LeetCode_39
+
+build cmake_object_order_depends_target_LeetCode_39: phony || CMakeFiles/LeetCode_39.dir
+
+build CMakeFiles/LeetCode_39.dir/day02_11_03/LeetCode_39.cpp.obj: CXX_COMPILER__LeetCode_39_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_39.cpp || cmake_object_order_depends_target_LeetCode_39
+  DEP_FILE = CMakeFiles\LeetCode_39.dir\day02_11_03\LeetCode_39.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_39.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_39.dir\day02_11_03
+
+build CMakeFiles/LeetCode_39.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER__LeetCode_39_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day01_11_02/LeetCode_347.cpp || cmake_object_order_depends_target_LeetCode_39
+  DEP_FILE = CMakeFiles\LeetCode_39.dir\day01_11_02\LeetCode_347.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_39.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_39.dir\day01_11_02
+
+build CMakeFiles/LeetCode_39.dir/day02_11_03/LeetCode_46.cpp.obj: CXX_COMPILER__LeetCode_39_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_46.cpp || cmake_object_order_depends_target_LeetCode_39
+  DEP_FILE = CMakeFiles\LeetCode_39.dir\day02_11_03\LeetCode_46.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_39.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_39.dir\day02_11_03
+
+build CMakeFiles/LeetCode_39.dir/day02_11_03/LeetCode_300.cpp.obj: CXX_COMPILER__LeetCode_39_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_300.cpp || cmake_object_order_depends_target_LeetCode_39
+  DEP_FILE = CMakeFiles\LeetCode_39.dir\day02_11_03\LeetCode_300.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_39.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_39.dir\day02_11_03
+
+build CMakeFiles/LeetCode_39.dir/day02_11_03/LeetCode_516.cpp.obj: CXX_COMPILER__LeetCode_39_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_516.cpp || cmake_object_order_depends_target_LeetCode_39
+  DEP_FILE = CMakeFiles\LeetCode_39.dir\day02_11_03\LeetCode_516.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_39.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_39.dir\day02_11_03
+
+build CMakeFiles/LeetCode_39.dir/day02_11_03/Leecode_200.cpp.obj: CXX_COMPILER__LeetCode_39_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/Leecode_200.cpp || cmake_object_order_depends_target_LeetCode_39
+  DEP_FILE = CMakeFiles\LeetCode_39.dir\day02_11_03\Leecode_200.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_39.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_39.dir\day02_11_03
+
+build CMakeFiles/LeetCode_39.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__LeetCode_39_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_232.cpp || cmake_object_order_depends_target_LeetCode_39
+  DEP_FILE = CMakeFiles\LeetCode_39.dir\day02_11_03\LeetCode_232.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_39.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_39.dir\day02_11_03
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target LeetCode_39
+
+
+#############################################
+# Link the executable LeetCode_39.exe
+
+build LeetCode_39.exe: CXX_EXECUTABLE_LINKER__LeetCode_39_Debug CMakeFiles/LeetCode_39.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/LeetCode_39.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/LeetCode_39.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/LeetCode_39.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/LeetCode_39.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/LeetCode_39.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/LeetCode_39.dir/day02_11_03/LeetCode_232.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\LeetCode_39.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = LeetCode_39.exe
+  TARGET_IMPLIB = libLeetCode_39.dll.a
+  TARGET_PDB = LeetCode_39.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target LeetCode_46
+
+
+#############################################
+# Order-only phony target for LeetCode_46
+
+build cmake_object_order_depends_target_LeetCode_46: phony || CMakeFiles/LeetCode_46.dir
+
+build CMakeFiles/LeetCode_46.dir/day02_11_03/LeetCode_46.cpp.obj: CXX_COMPILER__LeetCode_46_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_46.cpp || cmake_object_order_depends_target_LeetCode_46
+  DEP_FILE = CMakeFiles\LeetCode_46.dir\day02_11_03\LeetCode_46.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_46.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_46.dir\day02_11_03
+
+build CMakeFiles/LeetCode_46.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER__LeetCode_46_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day01_11_02/LeetCode_347.cpp || cmake_object_order_depends_target_LeetCode_46
+  DEP_FILE = CMakeFiles\LeetCode_46.dir\day01_11_02\LeetCode_347.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_46.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_46.dir\day01_11_02
+
+build CMakeFiles/LeetCode_46.dir/day02_11_03/LeetCode_39.cpp.obj: CXX_COMPILER__LeetCode_46_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_39.cpp || cmake_object_order_depends_target_LeetCode_46
+  DEP_FILE = CMakeFiles\LeetCode_46.dir\day02_11_03\LeetCode_39.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_46.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_46.dir\day02_11_03
+
+build CMakeFiles/LeetCode_46.dir/day02_11_03/LeetCode_300.cpp.obj: CXX_COMPILER__LeetCode_46_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_300.cpp || cmake_object_order_depends_target_LeetCode_46
+  DEP_FILE = CMakeFiles\LeetCode_46.dir\day02_11_03\LeetCode_300.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_46.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_46.dir\day02_11_03
+
+build CMakeFiles/LeetCode_46.dir/day02_11_03/LeetCode_516.cpp.obj: CXX_COMPILER__LeetCode_46_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_516.cpp || cmake_object_order_depends_target_LeetCode_46
+  DEP_FILE = CMakeFiles\LeetCode_46.dir\day02_11_03\LeetCode_516.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_46.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_46.dir\day02_11_03
+
+build CMakeFiles/LeetCode_46.dir/day02_11_03/Leecode_200.cpp.obj: CXX_COMPILER__LeetCode_46_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/Leecode_200.cpp || cmake_object_order_depends_target_LeetCode_46
+  DEP_FILE = CMakeFiles\LeetCode_46.dir\day02_11_03\Leecode_200.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_46.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_46.dir\day02_11_03
+
+build CMakeFiles/LeetCode_46.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__LeetCode_46_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_232.cpp || cmake_object_order_depends_target_LeetCode_46
+  DEP_FILE = CMakeFiles\LeetCode_46.dir\day02_11_03\LeetCode_232.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_46.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_46.dir\day02_11_03
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target LeetCode_46
+
+
+#############################################
+# Link the executable LeetCode_46.exe
+
+build LeetCode_46.exe: CXX_EXECUTABLE_LINKER__LeetCode_46_Debug CMakeFiles/LeetCode_46.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/LeetCode_46.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/LeetCode_46.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/LeetCode_46.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/LeetCode_46.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/LeetCode_46.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/LeetCode_46.dir/day02_11_03/LeetCode_232.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\LeetCode_46.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = LeetCode_46.exe
+  TARGET_IMPLIB = libLeetCode_46.dll.a
+  TARGET_PDB = LeetCode_46.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target LeetCode_516
+
+
+#############################################
+# Order-only phony target for LeetCode_516
+
+build cmake_object_order_depends_target_LeetCode_516: phony || CMakeFiles/LeetCode_516.dir
+
+build CMakeFiles/LeetCode_516.dir/day02_11_03/LeetCode_516.cpp.obj: CXX_COMPILER__LeetCode_516_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_516.cpp || cmake_object_order_depends_target_LeetCode_516
+  DEP_FILE = CMakeFiles\LeetCode_516.dir\day02_11_03\LeetCode_516.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_516.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_516.dir\day02_11_03
+
+build CMakeFiles/LeetCode_516.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER__LeetCode_516_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day01_11_02/LeetCode_347.cpp || cmake_object_order_depends_target_LeetCode_516
+  DEP_FILE = CMakeFiles\LeetCode_516.dir\day01_11_02\LeetCode_347.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_516.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_516.dir\day01_11_02
+
+build CMakeFiles/LeetCode_516.dir/day02_11_03/LeetCode_39.cpp.obj: CXX_COMPILER__LeetCode_516_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_39.cpp || cmake_object_order_depends_target_LeetCode_516
+  DEP_FILE = CMakeFiles\LeetCode_516.dir\day02_11_03\LeetCode_39.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_516.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_516.dir\day02_11_03
+
+build CMakeFiles/LeetCode_516.dir/day02_11_03/LeetCode_46.cpp.obj: CXX_COMPILER__LeetCode_516_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_46.cpp || cmake_object_order_depends_target_LeetCode_516
+  DEP_FILE = CMakeFiles\LeetCode_516.dir\day02_11_03\LeetCode_46.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_516.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_516.dir\day02_11_03
+
+build CMakeFiles/LeetCode_516.dir/day02_11_03/LeetCode_300.cpp.obj: CXX_COMPILER__LeetCode_516_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_300.cpp || cmake_object_order_depends_target_LeetCode_516
+  DEP_FILE = CMakeFiles\LeetCode_516.dir\day02_11_03\LeetCode_300.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_516.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_516.dir\day02_11_03
+
+build CMakeFiles/LeetCode_516.dir/day02_11_03/Leecode_200.cpp.obj: CXX_COMPILER__LeetCode_516_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/Leecode_200.cpp || cmake_object_order_depends_target_LeetCode_516
+  DEP_FILE = CMakeFiles\LeetCode_516.dir\day02_11_03\Leecode_200.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_516.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_516.dir\day02_11_03
+
+build CMakeFiles/LeetCode_516.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__LeetCode_516_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_232.cpp || cmake_object_order_depends_target_LeetCode_516
+  DEP_FILE = CMakeFiles\LeetCode_516.dir\day02_11_03\LeetCode_232.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_516.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_516.dir\day02_11_03
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target LeetCode_516
+
+
+#############################################
+# Link the executable LeetCode_516.exe
+
+build LeetCode_516.exe: CXX_EXECUTABLE_LINKER__LeetCode_516_Debug CMakeFiles/LeetCode_516.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/LeetCode_516.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/LeetCode_516.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/LeetCode_516.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/LeetCode_516.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/LeetCode_516.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/LeetCode_516.dir/day02_11_03/LeetCode_232.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\LeetCode_516.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = LeetCode_516.exe
+  TARGET_IMPLIB = libLeetCode_516.dll.a
+  TARGET_PDB = LeetCode_516.exe.dbg
 
 
 #############################################
@@ -412,11 +1076,23 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build CMakeCXXCompilerId: phony CMakeCXXCompilerId.exe
 
+build Leecode_200: phony Leecode_200.exe
+
+build LeetCode_232: phony LeetCode_232.exe
+
 build LeetCode_242: phony LeetCode_242.exe
+
+build LeetCode_300: phony LeetCode_300.exe
 
 build LeetCode_347: phony LeetCode_347.exe
 
 build LeetCode_349: phony LeetCode_349.exe
+
+build LeetCode_39: phony LeetCode_39.exe
+
+build LeetCode_46: phony LeetCode_46.exe
+
+build LeetCode_516: phony LeetCode_516.exe
 
 build ListNode: phony ListNode.exe
 
@@ -434,7 +1110,7 @@ build quickSort: phony quickSort.exe
 #############################################
 # Folder: C:/Users/Lanture/CLionProjects/C++_Study/cmake-build-debug
 
-build all: phony CMakeCXXCompilerId.exe LeetCode_242.exe LeetCode_347.exe LeetCode_349.exe ListNode.exe TreeNode.exe cmp.exe quickSort.exe
+build all: phony CMakeCXXCompilerId.exe LeetCode_242.exe LeetCode_347.exe LeetCode_349.exe ListNode.exe TreeNode.exe cmp.exe quickSort.exe Leecode_200.exe LeetCode_232.exe LeetCode_300.exe LeetCode_39.exe LeetCode_46.exe LeetCode_516.exe
 
 # =============================================================================
 # Built-in targets
@@ -443,14 +1119,14 @@ build all: phony CMakeCXXCompilerId.exe LeetCode_242.exe LeetCode_347.exe LeetCo
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | ../CMakeLists.txt C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCCompilerABI.c C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXCompilerABI.cpp C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineCXXCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineCompileFeatures.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeParseLibraryArchitecture.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeRCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystem.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeTestCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeTestCXXCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeTestRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-Determine-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.23.2/CMakeCCompiler.cmake CMakeFiles/3.23.2/CMakeCXXCompiler.cmake CMakeFiles/3.23.2/CMakeRCCompiler.cmake CMakeFiles/3.23.2/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | ../CMakeLists.txt C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.23.2/CMakeCCompiler.cmake CMakeFiles/3.23.2/CMakeCXXCompiler.cmake CMakeFiles/3.23.2/CMakeRCCompiler.cmake CMakeFiles/3.23.2/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build ../CMakeLists.txt C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCCompilerABI.c C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXCompilerABI.cpp C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineCXXCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineCompileFeatures.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeParseLibraryArchitecture.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeRCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystem.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeTestCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeTestCXXCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeTestRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-Determine-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.23.2/CMakeCCompiler.cmake CMakeFiles/3.23.2/CMakeCXXCompiler.cmake CMakeFiles/3.23.2/CMakeRCCompiler.cmake CMakeFiles/3.23.2/CMakeSystem.cmake: phony
+build ../CMakeLists.txt C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.2.4/bin/cmake/win/share/cmake-3.23/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.23.2/CMakeCCompiler.cmake CMakeFiles/3.23.2/CMakeCXXCompiler.cmake CMakeFiles/3.23.2/CMakeRCCompiler.cmake CMakeFiles/3.23.2/CMakeSystem.cmake: phony
 
 
 #############################################
