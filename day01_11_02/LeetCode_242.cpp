@@ -25,7 +25,7 @@ public:
 
 int main(){
     string s = "rat";
-    string t = "art";
+    string t = "art1";
     Solution so;
     cout<<so.isAnagram(s,t);
     return 0;
