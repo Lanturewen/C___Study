@@ -13,6 +13,11 @@
     -- C:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_39.cpp will be compiled to bin/LeetCode_39
     -- C:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_46.cpp will be compiled to bin/LeetCode_46
     -- C:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_516.cpp will be compiled to bin/LeetCode_516
+    -- C:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_206.cpp will be compiled to bin/lc_206
+    -- C:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_3.cpp will be compiled to bin/lc_3
+    -- C:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_103.cpp will be compiled to bin/lc_103
+    -- C:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_23.cpp will be compiled to bin/lc_23
+    -- C:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_88.cpp will be compiled to bin/lc_88
 -- Configuring done
 -- Generating done
 -- Build files have been written to: C:/Users/Lanture/CLionProjects/C++_Study/cmake-build-debug

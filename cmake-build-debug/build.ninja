@@ -97,6 +97,36 @@ build CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_CO
   OBJECT_DIR = CMakeFiles\CMakeCXXCompilerId.dir
   OBJECT_FILE_DIR = CMakeFiles\CMakeCXXCompilerId.dir\day02_11_03
 
+build CMakeFiles/CMakeCXXCompilerId.dir/day03_11_30/lc_3.cpp.obj: CXX_COMPILER__CMakeCXXCompilerId_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_3.cpp || cmake_object_order_depends_target_CMakeCXXCompilerId
+  DEP_FILE = CMakeFiles\CMakeCXXCompilerId.dir\day03_11_30\lc_3.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\CMakeCXXCompilerId.dir
+  OBJECT_FILE_DIR = CMakeFiles\CMakeCXXCompilerId.dir\day03_11_30
+
+build CMakeFiles/CMakeCXXCompilerId.dir/day03_11_30/lc_206.cpp.obj: CXX_COMPILER__CMakeCXXCompilerId_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_206.cpp || cmake_object_order_depends_target_CMakeCXXCompilerId
+  DEP_FILE = CMakeFiles\CMakeCXXCompilerId.dir\day03_11_30\lc_206.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\CMakeCXXCompilerId.dir
+  OBJECT_FILE_DIR = CMakeFiles\CMakeCXXCompilerId.dir\day03_11_30
+
+build CMakeFiles/CMakeCXXCompilerId.dir/day04_12_01/lc_88.cpp.obj: CXX_COMPILER__CMakeCXXCompilerId_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_88.cpp || cmake_object_order_depends_target_CMakeCXXCompilerId
+  DEP_FILE = CMakeFiles\CMakeCXXCompilerId.dir\day04_12_01\lc_88.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\CMakeCXXCompilerId.dir
+  OBJECT_FILE_DIR = CMakeFiles\CMakeCXXCompilerId.dir\day04_12_01
+
+build CMakeFiles/CMakeCXXCompilerId.dir/day04_12_01/lc_103.cpp.obj: CXX_COMPILER__CMakeCXXCompilerId_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_103.cpp || cmake_object_order_depends_target_CMakeCXXCompilerId
+  DEP_FILE = CMakeFiles\CMakeCXXCompilerId.dir\day04_12_01\lc_103.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\CMakeCXXCompilerId.dir
+  OBJECT_FILE_DIR = CMakeFiles\CMakeCXXCompilerId.dir\day04_12_01
+
+build CMakeFiles/CMakeCXXCompilerId.dir/day04_12_01/lc_23.cpp.obj: CXX_COMPILER__CMakeCXXCompilerId_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_23.cpp || cmake_object_order_depends_target_CMakeCXXCompilerId
+  DEP_FILE = CMakeFiles\CMakeCXXCompilerId.dir\day04_12_01\lc_23.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\CMakeCXXCompilerId.dir
+  OBJECT_FILE_DIR = CMakeFiles\CMakeCXXCompilerId.dir\day04_12_01
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CMakeCXXCompilerId
@@ -105,7 +135,7 @@ build CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_CO
 #############################################
 # Link the executable CMakeCXXCompilerId.exe
 
-build CMakeCXXCompilerId.exe: CXX_EXECUTABLE_LINKER__CMakeCXXCompilerId_Debug CMakeFiles/CMakeCXXCompilerId.dir/CMakeFiles/3.23.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/LeetCode_232.cpp.obj
+build CMakeCXXCompilerId.exe: CXX_EXECUTABLE_LINKER__CMakeCXXCompilerId_Debug CMakeFiles/CMakeCXXCompilerId.dir/CMakeFiles/3.23.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day02_11_03/LeetCode_232.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day03_11_30/lc_3.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day03_11_30/lc_206.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day04_12_01/lc_88.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day04_12_01/lc_103.cpp.obj CMakeFiles/CMakeCXXCompilerId.dir/day04_12_01/lc_23.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CMakeCXXCompilerId.dir
@@ -172,6 +202,36 @@ build CMakeFiles/LeetCode_242.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER
   OBJECT_DIR = CMakeFiles\LeetCode_242.dir
   OBJECT_FILE_DIR = CMakeFiles\LeetCode_242.dir\day02_11_03
 
+build CMakeFiles/LeetCode_242.dir/day03_11_30/lc_3.cpp.obj: CXX_COMPILER__LeetCode_242_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_3.cpp || cmake_object_order_depends_target_LeetCode_242
+  DEP_FILE = CMakeFiles\LeetCode_242.dir\day03_11_30\lc_3.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_242.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_242.dir\day03_11_30
+
+build CMakeFiles/LeetCode_242.dir/day03_11_30/lc_206.cpp.obj: CXX_COMPILER__LeetCode_242_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_206.cpp || cmake_object_order_depends_target_LeetCode_242
+  DEP_FILE = CMakeFiles\LeetCode_242.dir\day03_11_30\lc_206.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_242.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_242.dir\day03_11_30
+
+build CMakeFiles/LeetCode_242.dir/day04_12_01/lc_88.cpp.obj: CXX_COMPILER__LeetCode_242_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_88.cpp || cmake_object_order_depends_target_LeetCode_242
+  DEP_FILE = CMakeFiles\LeetCode_242.dir\day04_12_01\lc_88.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_242.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_242.dir\day04_12_01
+
+build CMakeFiles/LeetCode_242.dir/day04_12_01/lc_103.cpp.obj: CXX_COMPILER__LeetCode_242_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_103.cpp || cmake_object_order_depends_target_LeetCode_242
+  DEP_FILE = CMakeFiles\LeetCode_242.dir\day04_12_01\lc_103.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_242.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_242.dir\day04_12_01
+
+build CMakeFiles/LeetCode_242.dir/day04_12_01/lc_23.cpp.obj: CXX_COMPILER__LeetCode_242_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_23.cpp || cmake_object_order_depends_target_LeetCode_242
+  DEP_FILE = CMakeFiles\LeetCode_242.dir\day04_12_01\lc_23.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_242.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_242.dir\day04_12_01
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target LeetCode_242
@@ -180,7 +240,7 @@ build CMakeFiles/LeetCode_242.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER
 #############################################
 # Link the executable LeetCode_242.exe
 
-build LeetCode_242.exe: CXX_EXECUTABLE_LINKER__LeetCode_242_Debug CMakeFiles/LeetCode_242.dir/day01_11_02/LeetCode_242.cpp.obj CMakeFiles/LeetCode_242.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/LeetCode_242.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/LeetCode_242.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/LeetCode_242.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/LeetCode_242.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/LeetCode_242.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/LeetCode_242.dir/day02_11_03/LeetCode_232.cpp.obj
+build LeetCode_242.exe: CXX_EXECUTABLE_LINKER__LeetCode_242_Debug CMakeFiles/LeetCode_242.dir/day01_11_02/LeetCode_242.cpp.obj CMakeFiles/LeetCode_242.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/LeetCode_242.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/LeetCode_242.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/LeetCode_242.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/LeetCode_242.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/LeetCode_242.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/LeetCode_242.dir/day02_11_03/LeetCode_232.cpp.obj CMakeFiles/LeetCode_242.dir/day03_11_30/lc_3.cpp.obj CMakeFiles/LeetCode_242.dir/day03_11_30/lc_206.cpp.obj CMakeFiles/LeetCode_242.dir/day04_12_01/lc_88.cpp.obj CMakeFiles/LeetCode_242.dir/day04_12_01/lc_103.cpp.obj CMakeFiles/LeetCode_242.dir/day04_12_01/lc_23.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\LeetCode_242.dir
@@ -241,6 +301,36 @@ build CMakeFiles/LeetCode_347.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER
   OBJECT_DIR = CMakeFiles\LeetCode_347.dir
   OBJECT_FILE_DIR = CMakeFiles\LeetCode_347.dir\day02_11_03
 
+build CMakeFiles/LeetCode_347.dir/day03_11_30/lc_3.cpp.obj: CXX_COMPILER__LeetCode_347_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_3.cpp || cmake_object_order_depends_target_LeetCode_347
+  DEP_FILE = CMakeFiles\LeetCode_347.dir\day03_11_30\lc_3.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_347.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_347.dir\day03_11_30
+
+build CMakeFiles/LeetCode_347.dir/day03_11_30/lc_206.cpp.obj: CXX_COMPILER__LeetCode_347_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_206.cpp || cmake_object_order_depends_target_LeetCode_347
+  DEP_FILE = CMakeFiles\LeetCode_347.dir\day03_11_30\lc_206.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_347.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_347.dir\day03_11_30
+
+build CMakeFiles/LeetCode_347.dir/day04_12_01/lc_88.cpp.obj: CXX_COMPILER__LeetCode_347_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_88.cpp || cmake_object_order_depends_target_LeetCode_347
+  DEP_FILE = CMakeFiles\LeetCode_347.dir\day04_12_01\lc_88.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_347.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_347.dir\day04_12_01
+
+build CMakeFiles/LeetCode_347.dir/day04_12_01/lc_103.cpp.obj: CXX_COMPILER__LeetCode_347_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_103.cpp || cmake_object_order_depends_target_LeetCode_347
+  DEP_FILE = CMakeFiles\LeetCode_347.dir\day04_12_01\lc_103.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_347.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_347.dir\day04_12_01
+
+build CMakeFiles/LeetCode_347.dir/day04_12_01/lc_23.cpp.obj: CXX_COMPILER__LeetCode_347_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_23.cpp || cmake_object_order_depends_target_LeetCode_347
+  DEP_FILE = CMakeFiles\LeetCode_347.dir\day04_12_01\lc_23.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_347.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_347.dir\day04_12_01
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target LeetCode_347
@@ -249,7 +339,7 @@ build CMakeFiles/LeetCode_347.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER
 #############################################
 # Link the executable LeetCode_347.exe
 
-build LeetCode_347.exe: CXX_EXECUTABLE_LINKER__LeetCode_347_Debug CMakeFiles/LeetCode_347.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/LeetCode_347.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/LeetCode_347.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/LeetCode_347.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/LeetCode_347.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/LeetCode_347.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/LeetCode_347.dir/day02_11_03/LeetCode_232.cpp.obj
+build LeetCode_347.exe: CXX_EXECUTABLE_LINKER__LeetCode_347_Debug CMakeFiles/LeetCode_347.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/LeetCode_347.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/LeetCode_347.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/LeetCode_347.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/LeetCode_347.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/LeetCode_347.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/LeetCode_347.dir/day02_11_03/LeetCode_232.cpp.obj CMakeFiles/LeetCode_347.dir/day03_11_30/lc_3.cpp.obj CMakeFiles/LeetCode_347.dir/day03_11_30/lc_206.cpp.obj CMakeFiles/LeetCode_347.dir/day04_12_01/lc_88.cpp.obj CMakeFiles/LeetCode_347.dir/day04_12_01/lc_103.cpp.obj CMakeFiles/LeetCode_347.dir/day04_12_01/lc_23.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\LeetCode_347.dir
@@ -316,6 +406,36 @@ build CMakeFiles/LeetCode_349.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER
   OBJECT_DIR = CMakeFiles\LeetCode_349.dir
   OBJECT_FILE_DIR = CMakeFiles\LeetCode_349.dir\day02_11_03
 
+build CMakeFiles/LeetCode_349.dir/day03_11_30/lc_3.cpp.obj: CXX_COMPILER__LeetCode_349_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_3.cpp || cmake_object_order_depends_target_LeetCode_349
+  DEP_FILE = CMakeFiles\LeetCode_349.dir\day03_11_30\lc_3.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_349.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_349.dir\day03_11_30
+
+build CMakeFiles/LeetCode_349.dir/day03_11_30/lc_206.cpp.obj: CXX_COMPILER__LeetCode_349_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_206.cpp || cmake_object_order_depends_target_LeetCode_349
+  DEP_FILE = CMakeFiles\LeetCode_349.dir\day03_11_30\lc_206.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_349.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_349.dir\day03_11_30
+
+build CMakeFiles/LeetCode_349.dir/day04_12_01/lc_88.cpp.obj: CXX_COMPILER__LeetCode_349_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_88.cpp || cmake_object_order_depends_target_LeetCode_349
+  DEP_FILE = CMakeFiles\LeetCode_349.dir\day04_12_01\lc_88.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_349.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_349.dir\day04_12_01
+
+build CMakeFiles/LeetCode_349.dir/day04_12_01/lc_103.cpp.obj: CXX_COMPILER__LeetCode_349_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_103.cpp || cmake_object_order_depends_target_LeetCode_349
+  DEP_FILE = CMakeFiles\LeetCode_349.dir\day04_12_01\lc_103.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_349.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_349.dir\day04_12_01
+
+build CMakeFiles/LeetCode_349.dir/day04_12_01/lc_23.cpp.obj: CXX_COMPILER__LeetCode_349_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_23.cpp || cmake_object_order_depends_target_LeetCode_349
+  DEP_FILE = CMakeFiles\LeetCode_349.dir\day04_12_01\lc_23.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_349.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_349.dir\day04_12_01
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target LeetCode_349
@@ -324,7 +444,7 @@ build CMakeFiles/LeetCode_349.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER
 #############################################
 # Link the executable LeetCode_349.exe
 
-build LeetCode_349.exe: CXX_EXECUTABLE_LINKER__LeetCode_349_Debug CMakeFiles/LeetCode_349.dir/day01_11_02/LeetCode_349.cpp.obj CMakeFiles/LeetCode_349.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/LeetCode_349.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/LeetCode_349.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/LeetCode_349.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/LeetCode_349.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/LeetCode_349.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/LeetCode_349.dir/day02_11_03/LeetCode_232.cpp.obj
+build LeetCode_349.exe: CXX_EXECUTABLE_LINKER__LeetCode_349_Debug CMakeFiles/LeetCode_349.dir/day01_11_02/LeetCode_349.cpp.obj CMakeFiles/LeetCode_349.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/LeetCode_349.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/LeetCode_349.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/LeetCode_349.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/LeetCode_349.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/LeetCode_349.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/LeetCode_349.dir/day02_11_03/LeetCode_232.cpp.obj CMakeFiles/LeetCode_349.dir/day03_11_30/lc_3.cpp.obj CMakeFiles/LeetCode_349.dir/day03_11_30/lc_206.cpp.obj CMakeFiles/LeetCode_349.dir/day04_12_01/lc_88.cpp.obj CMakeFiles/LeetCode_349.dir/day04_12_01/lc_103.cpp.obj CMakeFiles/LeetCode_349.dir/day04_12_01/lc_23.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\LeetCode_349.dir
@@ -391,6 +511,36 @@ build CMakeFiles/ListNode.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__Li
   OBJECT_DIR = CMakeFiles\ListNode.dir
   OBJECT_FILE_DIR = CMakeFiles\ListNode.dir\day02_11_03
 
+build CMakeFiles/ListNode.dir/day03_11_30/lc_3.cpp.obj: CXX_COMPILER__ListNode_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_3.cpp || cmake_object_order_depends_target_ListNode
+  DEP_FILE = CMakeFiles\ListNode.dir\day03_11_30\lc_3.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\ListNode.dir
+  OBJECT_FILE_DIR = CMakeFiles\ListNode.dir\day03_11_30
+
+build CMakeFiles/ListNode.dir/day03_11_30/lc_206.cpp.obj: CXX_COMPILER__ListNode_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_206.cpp || cmake_object_order_depends_target_ListNode
+  DEP_FILE = CMakeFiles\ListNode.dir\day03_11_30\lc_206.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\ListNode.dir
+  OBJECT_FILE_DIR = CMakeFiles\ListNode.dir\day03_11_30
+
+build CMakeFiles/ListNode.dir/day04_12_01/lc_88.cpp.obj: CXX_COMPILER__ListNode_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_88.cpp || cmake_object_order_depends_target_ListNode
+  DEP_FILE = CMakeFiles\ListNode.dir\day04_12_01\lc_88.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\ListNode.dir
+  OBJECT_FILE_DIR = CMakeFiles\ListNode.dir\day04_12_01
+
+build CMakeFiles/ListNode.dir/day04_12_01/lc_103.cpp.obj: CXX_COMPILER__ListNode_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_103.cpp || cmake_object_order_depends_target_ListNode
+  DEP_FILE = CMakeFiles\ListNode.dir\day04_12_01\lc_103.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\ListNode.dir
+  OBJECT_FILE_DIR = CMakeFiles\ListNode.dir\day04_12_01
+
+build CMakeFiles/ListNode.dir/day04_12_01/lc_23.cpp.obj: CXX_COMPILER__ListNode_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_23.cpp || cmake_object_order_depends_target_ListNode
+  DEP_FILE = CMakeFiles\ListNode.dir\day04_12_01\lc_23.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\ListNode.dir
+  OBJECT_FILE_DIR = CMakeFiles\ListNode.dir\day04_12_01
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target ListNode
@@ -399,7 +549,7 @@ build CMakeFiles/ListNode.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__Li
 #############################################
 # Link the executable ListNode.exe
 
-build ListNode.exe: CXX_EXECUTABLE_LINKER__ListNode_Debug CMakeFiles/ListNode.dir/day01_11_02/ListNode.cpp.obj CMakeFiles/ListNode.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/ListNode.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/ListNode.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/ListNode.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/ListNode.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/ListNode.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/ListNode.dir/day02_11_03/LeetCode_232.cpp.obj
+build ListNode.exe: CXX_EXECUTABLE_LINKER__ListNode_Debug CMakeFiles/ListNode.dir/day01_11_02/ListNode.cpp.obj CMakeFiles/ListNode.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/ListNode.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/ListNode.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/ListNode.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/ListNode.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/ListNode.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/ListNode.dir/day02_11_03/LeetCode_232.cpp.obj CMakeFiles/ListNode.dir/day03_11_30/lc_3.cpp.obj CMakeFiles/ListNode.dir/day03_11_30/lc_206.cpp.obj CMakeFiles/ListNode.dir/day04_12_01/lc_88.cpp.obj CMakeFiles/ListNode.dir/day04_12_01/lc_103.cpp.obj CMakeFiles/ListNode.dir/day04_12_01/lc_23.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ListNode.dir
@@ -466,6 +616,36 @@ build CMakeFiles/TreeNode.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__Tr
   OBJECT_DIR = CMakeFiles\TreeNode.dir
   OBJECT_FILE_DIR = CMakeFiles\TreeNode.dir\day02_11_03
 
+build CMakeFiles/TreeNode.dir/day03_11_30/lc_3.cpp.obj: CXX_COMPILER__TreeNode_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_3.cpp || cmake_object_order_depends_target_TreeNode
+  DEP_FILE = CMakeFiles\TreeNode.dir\day03_11_30\lc_3.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\TreeNode.dir
+  OBJECT_FILE_DIR = CMakeFiles\TreeNode.dir\day03_11_30
+
+build CMakeFiles/TreeNode.dir/day03_11_30/lc_206.cpp.obj: CXX_COMPILER__TreeNode_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_206.cpp || cmake_object_order_depends_target_TreeNode
+  DEP_FILE = CMakeFiles\TreeNode.dir\day03_11_30\lc_206.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\TreeNode.dir
+  OBJECT_FILE_DIR = CMakeFiles\TreeNode.dir\day03_11_30
+
+build CMakeFiles/TreeNode.dir/day04_12_01/lc_88.cpp.obj: CXX_COMPILER__TreeNode_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_88.cpp || cmake_object_order_depends_target_TreeNode
+  DEP_FILE = CMakeFiles\TreeNode.dir\day04_12_01\lc_88.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\TreeNode.dir
+  OBJECT_FILE_DIR = CMakeFiles\TreeNode.dir\day04_12_01
+
+build CMakeFiles/TreeNode.dir/day04_12_01/lc_103.cpp.obj: CXX_COMPILER__TreeNode_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_103.cpp || cmake_object_order_depends_target_TreeNode
+  DEP_FILE = CMakeFiles\TreeNode.dir\day04_12_01\lc_103.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\TreeNode.dir
+  OBJECT_FILE_DIR = CMakeFiles\TreeNode.dir\day04_12_01
+
+build CMakeFiles/TreeNode.dir/day04_12_01/lc_23.cpp.obj: CXX_COMPILER__TreeNode_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_23.cpp || cmake_object_order_depends_target_TreeNode
+  DEP_FILE = CMakeFiles\TreeNode.dir\day04_12_01\lc_23.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\TreeNode.dir
+  OBJECT_FILE_DIR = CMakeFiles\TreeNode.dir\day04_12_01
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target TreeNode
@@ -474,7 +654,7 @@ build CMakeFiles/TreeNode.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__Tr
 #############################################
 # Link the executable TreeNode.exe
 
-build TreeNode.exe: CXX_EXECUTABLE_LINKER__TreeNode_Debug CMakeFiles/TreeNode.dir/day01_11_02/TreeNode.cpp.obj CMakeFiles/TreeNode.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/TreeNode.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/TreeNode.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/TreeNode.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/TreeNode.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/TreeNode.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/TreeNode.dir/day02_11_03/LeetCode_232.cpp.obj
+build TreeNode.exe: CXX_EXECUTABLE_LINKER__TreeNode_Debug CMakeFiles/TreeNode.dir/day01_11_02/TreeNode.cpp.obj CMakeFiles/TreeNode.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/TreeNode.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/TreeNode.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/TreeNode.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/TreeNode.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/TreeNode.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/TreeNode.dir/day02_11_03/LeetCode_232.cpp.obj CMakeFiles/TreeNode.dir/day03_11_30/lc_3.cpp.obj CMakeFiles/TreeNode.dir/day03_11_30/lc_206.cpp.obj CMakeFiles/TreeNode.dir/day04_12_01/lc_88.cpp.obj CMakeFiles/TreeNode.dir/day04_12_01/lc_103.cpp.obj CMakeFiles/TreeNode.dir/day04_12_01/lc_23.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\TreeNode.dir
@@ -541,6 +721,36 @@ build CMakeFiles/cmp.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__cmp_Deb
   OBJECT_DIR = CMakeFiles\cmp.dir
   OBJECT_FILE_DIR = CMakeFiles\cmp.dir\day02_11_03
 
+build CMakeFiles/cmp.dir/day03_11_30/lc_3.cpp.obj: CXX_COMPILER__cmp_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_3.cpp || cmake_object_order_depends_target_cmp
+  DEP_FILE = CMakeFiles\cmp.dir\day03_11_30\lc_3.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\cmp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cmp.dir\day03_11_30
+
+build CMakeFiles/cmp.dir/day03_11_30/lc_206.cpp.obj: CXX_COMPILER__cmp_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_206.cpp || cmake_object_order_depends_target_cmp
+  DEP_FILE = CMakeFiles\cmp.dir\day03_11_30\lc_206.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\cmp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cmp.dir\day03_11_30
+
+build CMakeFiles/cmp.dir/day04_12_01/lc_88.cpp.obj: CXX_COMPILER__cmp_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_88.cpp || cmake_object_order_depends_target_cmp
+  DEP_FILE = CMakeFiles\cmp.dir\day04_12_01\lc_88.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\cmp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cmp.dir\day04_12_01
+
+build CMakeFiles/cmp.dir/day04_12_01/lc_103.cpp.obj: CXX_COMPILER__cmp_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_103.cpp || cmake_object_order_depends_target_cmp
+  DEP_FILE = CMakeFiles\cmp.dir\day04_12_01\lc_103.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\cmp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cmp.dir\day04_12_01
+
+build CMakeFiles/cmp.dir/day04_12_01/lc_23.cpp.obj: CXX_COMPILER__cmp_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_23.cpp || cmake_object_order_depends_target_cmp
+  DEP_FILE = CMakeFiles\cmp.dir\day04_12_01\lc_23.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\cmp.dir
+  OBJECT_FILE_DIR = CMakeFiles\cmp.dir\day04_12_01
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target cmp
@@ -549,7 +759,7 @@ build CMakeFiles/cmp.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__cmp_Deb
 #############################################
 # Link the executable cmp.exe
 
-build cmp.exe: CXX_EXECUTABLE_LINKER__cmp_Debug CMakeFiles/cmp.dir/day01_11_02/cmp.cpp.obj CMakeFiles/cmp.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/cmp.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/cmp.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/cmp.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/cmp.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/cmp.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/cmp.dir/day02_11_03/LeetCode_232.cpp.obj
+build cmp.exe: CXX_EXECUTABLE_LINKER__cmp_Debug CMakeFiles/cmp.dir/day01_11_02/cmp.cpp.obj CMakeFiles/cmp.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/cmp.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/cmp.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/cmp.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/cmp.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/cmp.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/cmp.dir/day02_11_03/LeetCode_232.cpp.obj CMakeFiles/cmp.dir/day03_11_30/lc_3.cpp.obj CMakeFiles/cmp.dir/day03_11_30/lc_206.cpp.obj CMakeFiles/cmp.dir/day04_12_01/lc_88.cpp.obj CMakeFiles/cmp.dir/day04_12_01/lc_103.cpp.obj CMakeFiles/cmp.dir/day04_12_01/lc_23.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\cmp.dir
@@ -616,6 +826,36 @@ build CMakeFiles/quickSort.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__q
   OBJECT_DIR = CMakeFiles\quickSort.dir
   OBJECT_FILE_DIR = CMakeFiles\quickSort.dir\day02_11_03
 
+build CMakeFiles/quickSort.dir/day03_11_30/lc_3.cpp.obj: CXX_COMPILER__quickSort_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_3.cpp || cmake_object_order_depends_target_quickSort
+  DEP_FILE = CMakeFiles\quickSort.dir\day03_11_30\lc_3.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\quickSort.dir
+  OBJECT_FILE_DIR = CMakeFiles\quickSort.dir\day03_11_30
+
+build CMakeFiles/quickSort.dir/day03_11_30/lc_206.cpp.obj: CXX_COMPILER__quickSort_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_206.cpp || cmake_object_order_depends_target_quickSort
+  DEP_FILE = CMakeFiles\quickSort.dir\day03_11_30\lc_206.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\quickSort.dir
+  OBJECT_FILE_DIR = CMakeFiles\quickSort.dir\day03_11_30
+
+build CMakeFiles/quickSort.dir/day04_12_01/lc_88.cpp.obj: CXX_COMPILER__quickSort_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_88.cpp || cmake_object_order_depends_target_quickSort
+  DEP_FILE = CMakeFiles\quickSort.dir\day04_12_01\lc_88.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\quickSort.dir
+  OBJECT_FILE_DIR = CMakeFiles\quickSort.dir\day04_12_01
+
+build CMakeFiles/quickSort.dir/day04_12_01/lc_103.cpp.obj: CXX_COMPILER__quickSort_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_103.cpp || cmake_object_order_depends_target_quickSort
+  DEP_FILE = CMakeFiles\quickSort.dir\day04_12_01\lc_103.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\quickSort.dir
+  OBJECT_FILE_DIR = CMakeFiles\quickSort.dir\day04_12_01
+
+build CMakeFiles/quickSort.dir/day04_12_01/lc_23.cpp.obj: CXX_COMPILER__quickSort_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_23.cpp || cmake_object_order_depends_target_quickSort
+  DEP_FILE = CMakeFiles\quickSort.dir\day04_12_01\lc_23.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\quickSort.dir
+  OBJECT_FILE_DIR = CMakeFiles\quickSort.dir\day04_12_01
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target quickSort
@@ -624,7 +864,7 @@ build CMakeFiles/quickSort.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__q
 #############################################
 # Link the executable quickSort.exe
 
-build quickSort.exe: CXX_EXECUTABLE_LINKER__quickSort_Debug CMakeFiles/quickSort.dir/day01_11_02/quickSort.cpp.obj CMakeFiles/quickSort.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/quickSort.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/quickSort.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/quickSort.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/quickSort.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/quickSort.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/quickSort.dir/day02_11_03/LeetCode_232.cpp.obj
+build quickSort.exe: CXX_EXECUTABLE_LINKER__quickSort_Debug CMakeFiles/quickSort.dir/day01_11_02/quickSort.cpp.obj CMakeFiles/quickSort.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/quickSort.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/quickSort.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/quickSort.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/quickSort.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/quickSort.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/quickSort.dir/day02_11_03/LeetCode_232.cpp.obj CMakeFiles/quickSort.dir/day03_11_30/lc_3.cpp.obj CMakeFiles/quickSort.dir/day03_11_30/lc_206.cpp.obj CMakeFiles/quickSort.dir/day04_12_01/lc_88.cpp.obj CMakeFiles/quickSort.dir/day04_12_01/lc_103.cpp.obj CMakeFiles/quickSort.dir/day04_12_01/lc_23.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\quickSort.dir
@@ -685,6 +925,36 @@ build CMakeFiles/Leecode_200.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER_
   OBJECT_DIR = CMakeFiles\Leecode_200.dir
   OBJECT_FILE_DIR = CMakeFiles\Leecode_200.dir\day02_11_03
 
+build CMakeFiles/Leecode_200.dir/day03_11_30/lc_3.cpp.obj: CXX_COMPILER__Leecode_200_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_3.cpp || cmake_object_order_depends_target_Leecode_200
+  DEP_FILE = CMakeFiles\Leecode_200.dir\day03_11_30\lc_3.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Leecode_200.dir
+  OBJECT_FILE_DIR = CMakeFiles\Leecode_200.dir\day03_11_30
+
+build CMakeFiles/Leecode_200.dir/day03_11_30/lc_206.cpp.obj: CXX_COMPILER__Leecode_200_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_206.cpp || cmake_object_order_depends_target_Leecode_200
+  DEP_FILE = CMakeFiles\Leecode_200.dir\day03_11_30\lc_206.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Leecode_200.dir
+  OBJECT_FILE_DIR = CMakeFiles\Leecode_200.dir\day03_11_30
+
+build CMakeFiles/Leecode_200.dir/day04_12_01/lc_88.cpp.obj: CXX_COMPILER__Leecode_200_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_88.cpp || cmake_object_order_depends_target_Leecode_200
+  DEP_FILE = CMakeFiles\Leecode_200.dir\day04_12_01\lc_88.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Leecode_200.dir
+  OBJECT_FILE_DIR = CMakeFiles\Leecode_200.dir\day04_12_01
+
+build CMakeFiles/Leecode_200.dir/day04_12_01/lc_103.cpp.obj: CXX_COMPILER__Leecode_200_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_103.cpp || cmake_object_order_depends_target_Leecode_200
+  DEP_FILE = CMakeFiles\Leecode_200.dir\day04_12_01\lc_103.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Leecode_200.dir
+  OBJECT_FILE_DIR = CMakeFiles\Leecode_200.dir\day04_12_01
+
+build CMakeFiles/Leecode_200.dir/day04_12_01/lc_23.cpp.obj: CXX_COMPILER__Leecode_200_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_23.cpp || cmake_object_order_depends_target_Leecode_200
+  DEP_FILE = CMakeFiles\Leecode_200.dir\day04_12_01\lc_23.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Leecode_200.dir
+  OBJECT_FILE_DIR = CMakeFiles\Leecode_200.dir\day04_12_01
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Leecode_200
@@ -693,7 +963,7 @@ build CMakeFiles/Leecode_200.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER_
 #############################################
 # Link the executable Leecode_200.exe
 
-build Leecode_200.exe: CXX_EXECUTABLE_LINKER__Leecode_200_Debug CMakeFiles/Leecode_200.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/Leecode_200.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/Leecode_200.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/Leecode_200.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/Leecode_200.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/Leecode_200.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/Leecode_200.dir/day02_11_03/LeetCode_232.cpp.obj
+build Leecode_200.exe: CXX_EXECUTABLE_LINKER__Leecode_200_Debug CMakeFiles/Leecode_200.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/Leecode_200.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/Leecode_200.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/Leecode_200.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/Leecode_200.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/Leecode_200.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/Leecode_200.dir/day02_11_03/LeetCode_232.cpp.obj CMakeFiles/Leecode_200.dir/day03_11_30/lc_3.cpp.obj CMakeFiles/Leecode_200.dir/day03_11_30/lc_206.cpp.obj CMakeFiles/Leecode_200.dir/day04_12_01/lc_88.cpp.obj CMakeFiles/Leecode_200.dir/day04_12_01/lc_103.cpp.obj CMakeFiles/Leecode_200.dir/day04_12_01/lc_23.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Leecode_200.dir
@@ -754,6 +1024,36 @@ build CMakeFiles/LeetCode_232.dir/day02_11_03/Leecode_200.cpp.obj: CXX_COMPILER_
   OBJECT_DIR = CMakeFiles\LeetCode_232.dir
   OBJECT_FILE_DIR = CMakeFiles\LeetCode_232.dir\day02_11_03
 
+build CMakeFiles/LeetCode_232.dir/day03_11_30/lc_3.cpp.obj: CXX_COMPILER__LeetCode_232_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_3.cpp || cmake_object_order_depends_target_LeetCode_232
+  DEP_FILE = CMakeFiles\LeetCode_232.dir\day03_11_30\lc_3.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_232.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_232.dir\day03_11_30
+
+build CMakeFiles/LeetCode_232.dir/day03_11_30/lc_206.cpp.obj: CXX_COMPILER__LeetCode_232_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_206.cpp || cmake_object_order_depends_target_LeetCode_232
+  DEP_FILE = CMakeFiles\LeetCode_232.dir\day03_11_30\lc_206.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_232.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_232.dir\day03_11_30
+
+build CMakeFiles/LeetCode_232.dir/day04_12_01/lc_88.cpp.obj: CXX_COMPILER__LeetCode_232_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_88.cpp || cmake_object_order_depends_target_LeetCode_232
+  DEP_FILE = CMakeFiles\LeetCode_232.dir\day04_12_01\lc_88.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_232.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_232.dir\day04_12_01
+
+build CMakeFiles/LeetCode_232.dir/day04_12_01/lc_103.cpp.obj: CXX_COMPILER__LeetCode_232_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_103.cpp || cmake_object_order_depends_target_LeetCode_232
+  DEP_FILE = CMakeFiles\LeetCode_232.dir\day04_12_01\lc_103.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_232.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_232.dir\day04_12_01
+
+build CMakeFiles/LeetCode_232.dir/day04_12_01/lc_23.cpp.obj: CXX_COMPILER__LeetCode_232_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_23.cpp || cmake_object_order_depends_target_LeetCode_232
+  DEP_FILE = CMakeFiles\LeetCode_232.dir\day04_12_01\lc_23.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_232.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_232.dir\day04_12_01
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target LeetCode_232
@@ -762,7 +1062,7 @@ build CMakeFiles/LeetCode_232.dir/day02_11_03/Leecode_200.cpp.obj: CXX_COMPILER_
 #############################################
 # Link the executable LeetCode_232.exe
 
-build LeetCode_232.exe: CXX_EXECUTABLE_LINKER__LeetCode_232_Debug CMakeFiles/LeetCode_232.dir/day02_11_03/LeetCode_232.cpp.obj CMakeFiles/LeetCode_232.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/LeetCode_232.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/LeetCode_232.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/LeetCode_232.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/LeetCode_232.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/LeetCode_232.dir/day02_11_03/Leecode_200.cpp.obj
+build LeetCode_232.exe: CXX_EXECUTABLE_LINKER__LeetCode_232_Debug CMakeFiles/LeetCode_232.dir/day02_11_03/LeetCode_232.cpp.obj CMakeFiles/LeetCode_232.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/LeetCode_232.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/LeetCode_232.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/LeetCode_232.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/LeetCode_232.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/LeetCode_232.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/LeetCode_232.dir/day03_11_30/lc_3.cpp.obj CMakeFiles/LeetCode_232.dir/day03_11_30/lc_206.cpp.obj CMakeFiles/LeetCode_232.dir/day04_12_01/lc_88.cpp.obj CMakeFiles/LeetCode_232.dir/day04_12_01/lc_103.cpp.obj CMakeFiles/LeetCode_232.dir/day04_12_01/lc_23.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\LeetCode_232.dir
@@ -823,6 +1123,36 @@ build CMakeFiles/LeetCode_300.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER
   OBJECT_DIR = CMakeFiles\LeetCode_300.dir
   OBJECT_FILE_DIR = CMakeFiles\LeetCode_300.dir\day02_11_03
 
+build CMakeFiles/LeetCode_300.dir/day03_11_30/lc_3.cpp.obj: CXX_COMPILER__LeetCode_300_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_3.cpp || cmake_object_order_depends_target_LeetCode_300
+  DEP_FILE = CMakeFiles\LeetCode_300.dir\day03_11_30\lc_3.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_300.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_300.dir\day03_11_30
+
+build CMakeFiles/LeetCode_300.dir/day03_11_30/lc_206.cpp.obj: CXX_COMPILER__LeetCode_300_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_206.cpp || cmake_object_order_depends_target_LeetCode_300
+  DEP_FILE = CMakeFiles\LeetCode_300.dir\day03_11_30\lc_206.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_300.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_300.dir\day03_11_30
+
+build CMakeFiles/LeetCode_300.dir/day04_12_01/lc_88.cpp.obj: CXX_COMPILER__LeetCode_300_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_88.cpp || cmake_object_order_depends_target_LeetCode_300
+  DEP_FILE = CMakeFiles\LeetCode_300.dir\day04_12_01\lc_88.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_300.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_300.dir\day04_12_01
+
+build CMakeFiles/LeetCode_300.dir/day04_12_01/lc_103.cpp.obj: CXX_COMPILER__LeetCode_300_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_103.cpp || cmake_object_order_depends_target_LeetCode_300
+  DEP_FILE = CMakeFiles\LeetCode_300.dir\day04_12_01\lc_103.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_300.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_300.dir\day04_12_01
+
+build CMakeFiles/LeetCode_300.dir/day04_12_01/lc_23.cpp.obj: CXX_COMPILER__LeetCode_300_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_23.cpp || cmake_object_order_depends_target_LeetCode_300
+  DEP_FILE = CMakeFiles\LeetCode_300.dir\day04_12_01\lc_23.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_300.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_300.dir\day04_12_01
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target LeetCode_300
@@ -831,7 +1161,7 @@ build CMakeFiles/LeetCode_300.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER
 #############################################
 # Link the executable LeetCode_300.exe
 
-build LeetCode_300.exe: CXX_EXECUTABLE_LINKER__LeetCode_300_Debug CMakeFiles/LeetCode_300.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/LeetCode_300.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/LeetCode_300.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/LeetCode_300.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/LeetCode_300.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/LeetCode_300.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/LeetCode_300.dir/day02_11_03/LeetCode_232.cpp.obj
+build LeetCode_300.exe: CXX_EXECUTABLE_LINKER__LeetCode_300_Debug CMakeFiles/LeetCode_300.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/LeetCode_300.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/LeetCode_300.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/LeetCode_300.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/LeetCode_300.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/LeetCode_300.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/LeetCode_300.dir/day02_11_03/LeetCode_232.cpp.obj CMakeFiles/LeetCode_300.dir/day03_11_30/lc_3.cpp.obj CMakeFiles/LeetCode_300.dir/day03_11_30/lc_206.cpp.obj CMakeFiles/LeetCode_300.dir/day04_12_01/lc_88.cpp.obj CMakeFiles/LeetCode_300.dir/day04_12_01/lc_103.cpp.obj CMakeFiles/LeetCode_300.dir/day04_12_01/lc_23.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\LeetCode_300.dir
@@ -892,6 +1222,36 @@ build CMakeFiles/LeetCode_39.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER_
   OBJECT_DIR = CMakeFiles\LeetCode_39.dir
   OBJECT_FILE_DIR = CMakeFiles\LeetCode_39.dir\day02_11_03
 
+build CMakeFiles/LeetCode_39.dir/day03_11_30/lc_3.cpp.obj: CXX_COMPILER__LeetCode_39_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_3.cpp || cmake_object_order_depends_target_LeetCode_39
+  DEP_FILE = CMakeFiles\LeetCode_39.dir\day03_11_30\lc_3.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_39.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_39.dir\day03_11_30
+
+build CMakeFiles/LeetCode_39.dir/day03_11_30/lc_206.cpp.obj: CXX_COMPILER__LeetCode_39_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_206.cpp || cmake_object_order_depends_target_LeetCode_39
+  DEP_FILE = CMakeFiles\LeetCode_39.dir\day03_11_30\lc_206.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_39.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_39.dir\day03_11_30
+
+build CMakeFiles/LeetCode_39.dir/day04_12_01/lc_88.cpp.obj: CXX_COMPILER__LeetCode_39_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_88.cpp || cmake_object_order_depends_target_LeetCode_39
+  DEP_FILE = CMakeFiles\LeetCode_39.dir\day04_12_01\lc_88.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_39.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_39.dir\day04_12_01
+
+build CMakeFiles/LeetCode_39.dir/day04_12_01/lc_103.cpp.obj: CXX_COMPILER__LeetCode_39_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_103.cpp || cmake_object_order_depends_target_LeetCode_39
+  DEP_FILE = CMakeFiles\LeetCode_39.dir\day04_12_01\lc_103.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_39.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_39.dir\day04_12_01
+
+build CMakeFiles/LeetCode_39.dir/day04_12_01/lc_23.cpp.obj: CXX_COMPILER__LeetCode_39_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_23.cpp || cmake_object_order_depends_target_LeetCode_39
+  DEP_FILE = CMakeFiles\LeetCode_39.dir\day04_12_01\lc_23.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_39.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_39.dir\day04_12_01
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target LeetCode_39
@@ -900,7 +1260,7 @@ build CMakeFiles/LeetCode_39.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER_
 #############################################
 # Link the executable LeetCode_39.exe
 
-build LeetCode_39.exe: CXX_EXECUTABLE_LINKER__LeetCode_39_Debug CMakeFiles/LeetCode_39.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/LeetCode_39.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/LeetCode_39.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/LeetCode_39.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/LeetCode_39.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/LeetCode_39.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/LeetCode_39.dir/day02_11_03/LeetCode_232.cpp.obj
+build LeetCode_39.exe: CXX_EXECUTABLE_LINKER__LeetCode_39_Debug CMakeFiles/LeetCode_39.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/LeetCode_39.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/LeetCode_39.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/LeetCode_39.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/LeetCode_39.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/LeetCode_39.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/LeetCode_39.dir/day02_11_03/LeetCode_232.cpp.obj CMakeFiles/LeetCode_39.dir/day03_11_30/lc_3.cpp.obj CMakeFiles/LeetCode_39.dir/day03_11_30/lc_206.cpp.obj CMakeFiles/LeetCode_39.dir/day04_12_01/lc_88.cpp.obj CMakeFiles/LeetCode_39.dir/day04_12_01/lc_103.cpp.obj CMakeFiles/LeetCode_39.dir/day04_12_01/lc_23.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\LeetCode_39.dir
@@ -961,6 +1321,36 @@ build CMakeFiles/LeetCode_46.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER_
   OBJECT_DIR = CMakeFiles\LeetCode_46.dir
   OBJECT_FILE_DIR = CMakeFiles\LeetCode_46.dir\day02_11_03
 
+build CMakeFiles/LeetCode_46.dir/day03_11_30/lc_3.cpp.obj: CXX_COMPILER__LeetCode_46_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_3.cpp || cmake_object_order_depends_target_LeetCode_46
+  DEP_FILE = CMakeFiles\LeetCode_46.dir\day03_11_30\lc_3.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_46.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_46.dir\day03_11_30
+
+build CMakeFiles/LeetCode_46.dir/day03_11_30/lc_206.cpp.obj: CXX_COMPILER__LeetCode_46_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_206.cpp || cmake_object_order_depends_target_LeetCode_46
+  DEP_FILE = CMakeFiles\LeetCode_46.dir\day03_11_30\lc_206.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_46.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_46.dir\day03_11_30
+
+build CMakeFiles/LeetCode_46.dir/day04_12_01/lc_88.cpp.obj: CXX_COMPILER__LeetCode_46_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_88.cpp || cmake_object_order_depends_target_LeetCode_46
+  DEP_FILE = CMakeFiles\LeetCode_46.dir\day04_12_01\lc_88.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_46.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_46.dir\day04_12_01
+
+build CMakeFiles/LeetCode_46.dir/day04_12_01/lc_103.cpp.obj: CXX_COMPILER__LeetCode_46_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_103.cpp || cmake_object_order_depends_target_LeetCode_46
+  DEP_FILE = CMakeFiles\LeetCode_46.dir\day04_12_01\lc_103.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_46.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_46.dir\day04_12_01
+
+build CMakeFiles/LeetCode_46.dir/day04_12_01/lc_23.cpp.obj: CXX_COMPILER__LeetCode_46_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_23.cpp || cmake_object_order_depends_target_LeetCode_46
+  DEP_FILE = CMakeFiles\LeetCode_46.dir\day04_12_01\lc_23.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_46.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_46.dir\day04_12_01
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target LeetCode_46
@@ -969,7 +1359,7 @@ build CMakeFiles/LeetCode_46.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER_
 #############################################
 # Link the executable LeetCode_46.exe
 
-build LeetCode_46.exe: CXX_EXECUTABLE_LINKER__LeetCode_46_Debug CMakeFiles/LeetCode_46.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/LeetCode_46.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/LeetCode_46.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/LeetCode_46.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/LeetCode_46.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/LeetCode_46.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/LeetCode_46.dir/day02_11_03/LeetCode_232.cpp.obj
+build LeetCode_46.exe: CXX_EXECUTABLE_LINKER__LeetCode_46_Debug CMakeFiles/LeetCode_46.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/LeetCode_46.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/LeetCode_46.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/LeetCode_46.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/LeetCode_46.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/LeetCode_46.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/LeetCode_46.dir/day02_11_03/LeetCode_232.cpp.obj CMakeFiles/LeetCode_46.dir/day03_11_30/lc_3.cpp.obj CMakeFiles/LeetCode_46.dir/day03_11_30/lc_206.cpp.obj CMakeFiles/LeetCode_46.dir/day04_12_01/lc_88.cpp.obj CMakeFiles/LeetCode_46.dir/day04_12_01/lc_103.cpp.obj CMakeFiles/LeetCode_46.dir/day04_12_01/lc_23.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\LeetCode_46.dir
@@ -1030,6 +1420,36 @@ build CMakeFiles/LeetCode_516.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER
   OBJECT_DIR = CMakeFiles\LeetCode_516.dir
   OBJECT_FILE_DIR = CMakeFiles\LeetCode_516.dir\day02_11_03
 
+build CMakeFiles/LeetCode_516.dir/day03_11_30/lc_3.cpp.obj: CXX_COMPILER__LeetCode_516_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_3.cpp || cmake_object_order_depends_target_LeetCode_516
+  DEP_FILE = CMakeFiles\LeetCode_516.dir\day03_11_30\lc_3.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_516.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_516.dir\day03_11_30
+
+build CMakeFiles/LeetCode_516.dir/day03_11_30/lc_206.cpp.obj: CXX_COMPILER__LeetCode_516_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_206.cpp || cmake_object_order_depends_target_LeetCode_516
+  DEP_FILE = CMakeFiles\LeetCode_516.dir\day03_11_30\lc_206.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_516.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_516.dir\day03_11_30
+
+build CMakeFiles/LeetCode_516.dir/day04_12_01/lc_88.cpp.obj: CXX_COMPILER__LeetCode_516_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_88.cpp || cmake_object_order_depends_target_LeetCode_516
+  DEP_FILE = CMakeFiles\LeetCode_516.dir\day04_12_01\lc_88.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_516.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_516.dir\day04_12_01
+
+build CMakeFiles/LeetCode_516.dir/day04_12_01/lc_103.cpp.obj: CXX_COMPILER__LeetCode_516_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_103.cpp || cmake_object_order_depends_target_LeetCode_516
+  DEP_FILE = CMakeFiles\LeetCode_516.dir\day04_12_01\lc_103.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_516.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_516.dir\day04_12_01
+
+build CMakeFiles/LeetCode_516.dir/day04_12_01/lc_23.cpp.obj: CXX_COMPILER__LeetCode_516_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_23.cpp || cmake_object_order_depends_target_LeetCode_516
+  DEP_FILE = CMakeFiles\LeetCode_516.dir\day04_12_01\lc_23.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\LeetCode_516.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_516.dir\day04_12_01
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target LeetCode_516
@@ -1038,7 +1458,7 @@ build CMakeFiles/LeetCode_516.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER
 #############################################
 # Link the executable LeetCode_516.exe
 
-build LeetCode_516.exe: CXX_EXECUTABLE_LINKER__LeetCode_516_Debug CMakeFiles/LeetCode_516.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/LeetCode_516.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/LeetCode_516.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/LeetCode_516.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/LeetCode_516.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/LeetCode_516.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/LeetCode_516.dir/day02_11_03/LeetCode_232.cpp.obj
+build LeetCode_516.exe: CXX_EXECUTABLE_LINKER__LeetCode_516_Debug CMakeFiles/LeetCode_516.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/LeetCode_516.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/LeetCode_516.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/LeetCode_516.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/LeetCode_516.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/LeetCode_516.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/LeetCode_516.dir/day02_11_03/LeetCode_232.cpp.obj CMakeFiles/LeetCode_516.dir/day03_11_30/lc_3.cpp.obj CMakeFiles/LeetCode_516.dir/day03_11_30/lc_206.cpp.obj CMakeFiles/LeetCode_516.dir/day04_12_01/lc_88.cpp.obj CMakeFiles/LeetCode_516.dir/day04_12_01/lc_103.cpp.obj CMakeFiles/LeetCode_516.dir/day04_12_01/lc_23.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\LeetCode_516.dir
@@ -1047,6 +1467,501 @@ build LeetCode_516.exe: CXX_EXECUTABLE_LINKER__LeetCode_516_Debug CMakeFiles/Lee
   TARGET_FILE = LeetCode_516.exe
   TARGET_IMPLIB = libLeetCode_516.dll.a
   TARGET_PDB = LeetCode_516.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lc_206
+
+
+#############################################
+# Order-only phony target for lc_206
+
+build cmake_object_order_depends_target_lc_206: phony || CMakeFiles/lc_206.dir
+
+build CMakeFiles/lc_206.dir/day03_11_30/lc_206.cpp.obj: CXX_COMPILER__lc_206_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_206.cpp || cmake_object_order_depends_target_lc_206
+  DEP_FILE = CMakeFiles\lc_206.dir\day03_11_30\lc_206.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_206.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_206.dir\day03_11_30
+
+build CMakeFiles/lc_206.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER__lc_206_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day01_11_02/LeetCode_347.cpp || cmake_object_order_depends_target_lc_206
+  DEP_FILE = CMakeFiles\lc_206.dir\day01_11_02\LeetCode_347.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_206.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_206.dir\day01_11_02
+
+build CMakeFiles/lc_206.dir/day02_11_03/LeetCode_39.cpp.obj: CXX_COMPILER__lc_206_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_39.cpp || cmake_object_order_depends_target_lc_206
+  DEP_FILE = CMakeFiles\lc_206.dir\day02_11_03\LeetCode_39.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_206.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_206.dir\day02_11_03
+
+build CMakeFiles/lc_206.dir/day02_11_03/LeetCode_46.cpp.obj: CXX_COMPILER__lc_206_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_46.cpp || cmake_object_order_depends_target_lc_206
+  DEP_FILE = CMakeFiles\lc_206.dir\day02_11_03\LeetCode_46.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_206.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_206.dir\day02_11_03
+
+build CMakeFiles/lc_206.dir/day02_11_03/LeetCode_300.cpp.obj: CXX_COMPILER__lc_206_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_300.cpp || cmake_object_order_depends_target_lc_206
+  DEP_FILE = CMakeFiles\lc_206.dir\day02_11_03\LeetCode_300.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_206.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_206.dir\day02_11_03
+
+build CMakeFiles/lc_206.dir/day02_11_03/LeetCode_516.cpp.obj: CXX_COMPILER__lc_206_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_516.cpp || cmake_object_order_depends_target_lc_206
+  DEP_FILE = CMakeFiles\lc_206.dir\day02_11_03\LeetCode_516.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_206.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_206.dir\day02_11_03
+
+build CMakeFiles/lc_206.dir/day02_11_03/Leecode_200.cpp.obj: CXX_COMPILER__lc_206_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/Leecode_200.cpp || cmake_object_order_depends_target_lc_206
+  DEP_FILE = CMakeFiles\lc_206.dir\day02_11_03\Leecode_200.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_206.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_206.dir\day02_11_03
+
+build CMakeFiles/lc_206.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__lc_206_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_232.cpp || cmake_object_order_depends_target_lc_206
+  DEP_FILE = CMakeFiles\lc_206.dir\day02_11_03\LeetCode_232.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_206.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_206.dir\day02_11_03
+
+build CMakeFiles/lc_206.dir/day03_11_30/lc_3.cpp.obj: CXX_COMPILER__lc_206_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_3.cpp || cmake_object_order_depends_target_lc_206
+  DEP_FILE = CMakeFiles\lc_206.dir\day03_11_30\lc_3.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_206.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_206.dir\day03_11_30
+
+build CMakeFiles/lc_206.dir/day04_12_01/lc_88.cpp.obj: CXX_COMPILER__lc_206_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_88.cpp || cmake_object_order_depends_target_lc_206
+  DEP_FILE = CMakeFiles\lc_206.dir\day04_12_01\lc_88.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_206.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_206.dir\day04_12_01
+
+build CMakeFiles/lc_206.dir/day04_12_01/lc_103.cpp.obj: CXX_COMPILER__lc_206_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_103.cpp || cmake_object_order_depends_target_lc_206
+  DEP_FILE = CMakeFiles\lc_206.dir\day04_12_01\lc_103.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_206.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_206.dir\day04_12_01
+
+build CMakeFiles/lc_206.dir/day04_12_01/lc_23.cpp.obj: CXX_COMPILER__lc_206_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_23.cpp || cmake_object_order_depends_target_lc_206
+  DEP_FILE = CMakeFiles\lc_206.dir\day04_12_01\lc_23.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_206.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_206.dir\day04_12_01
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lc_206
+
+
+#############################################
+# Link the executable lc_206.exe
+
+build lc_206.exe: CXX_EXECUTABLE_LINKER__lc_206_Debug CMakeFiles/lc_206.dir/day03_11_30/lc_206.cpp.obj CMakeFiles/lc_206.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/lc_206.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/lc_206.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/lc_206.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/lc_206.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/lc_206.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/lc_206.dir/day02_11_03/LeetCode_232.cpp.obj CMakeFiles/lc_206.dir/day03_11_30/lc_3.cpp.obj CMakeFiles/lc_206.dir/day04_12_01/lc_88.cpp.obj CMakeFiles/lc_206.dir/day04_12_01/lc_103.cpp.obj CMakeFiles/lc_206.dir/day04_12_01/lc_23.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lc_206.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lc_206.exe
+  TARGET_IMPLIB = liblc_206.dll.a
+  TARGET_PDB = lc_206.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lc_3
+
+
+#############################################
+# Order-only phony target for lc_3
+
+build cmake_object_order_depends_target_lc_3: phony || CMakeFiles/lc_3.dir
+
+build CMakeFiles/lc_3.dir/day03_11_30/lc_3.cpp.obj: CXX_COMPILER__lc_3_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_3.cpp || cmake_object_order_depends_target_lc_3
+  DEP_FILE = CMakeFiles\lc_3.dir\day03_11_30\lc_3.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_3.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_3.dir\day03_11_30
+
+build CMakeFiles/lc_3.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER__lc_3_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day01_11_02/LeetCode_347.cpp || cmake_object_order_depends_target_lc_3
+  DEP_FILE = CMakeFiles\lc_3.dir\day01_11_02\LeetCode_347.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_3.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_3.dir\day01_11_02
+
+build CMakeFiles/lc_3.dir/day02_11_03/LeetCode_39.cpp.obj: CXX_COMPILER__lc_3_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_39.cpp || cmake_object_order_depends_target_lc_3
+  DEP_FILE = CMakeFiles\lc_3.dir\day02_11_03\LeetCode_39.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_3.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_3.dir\day02_11_03
+
+build CMakeFiles/lc_3.dir/day02_11_03/LeetCode_46.cpp.obj: CXX_COMPILER__lc_3_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_46.cpp || cmake_object_order_depends_target_lc_3
+  DEP_FILE = CMakeFiles\lc_3.dir\day02_11_03\LeetCode_46.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_3.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_3.dir\day02_11_03
+
+build CMakeFiles/lc_3.dir/day02_11_03/LeetCode_300.cpp.obj: CXX_COMPILER__lc_3_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_300.cpp || cmake_object_order_depends_target_lc_3
+  DEP_FILE = CMakeFiles\lc_3.dir\day02_11_03\LeetCode_300.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_3.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_3.dir\day02_11_03
+
+build CMakeFiles/lc_3.dir/day02_11_03/LeetCode_516.cpp.obj: CXX_COMPILER__lc_3_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_516.cpp || cmake_object_order_depends_target_lc_3
+  DEP_FILE = CMakeFiles\lc_3.dir\day02_11_03\LeetCode_516.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_3.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_3.dir\day02_11_03
+
+build CMakeFiles/lc_3.dir/day02_11_03/Leecode_200.cpp.obj: CXX_COMPILER__lc_3_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/Leecode_200.cpp || cmake_object_order_depends_target_lc_3
+  DEP_FILE = CMakeFiles\lc_3.dir\day02_11_03\Leecode_200.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_3.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_3.dir\day02_11_03
+
+build CMakeFiles/lc_3.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__lc_3_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_232.cpp || cmake_object_order_depends_target_lc_3
+  DEP_FILE = CMakeFiles\lc_3.dir\day02_11_03\LeetCode_232.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_3.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_3.dir\day02_11_03
+
+build CMakeFiles/lc_3.dir/day03_11_30/lc_206.cpp.obj: CXX_COMPILER__lc_3_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_206.cpp || cmake_object_order_depends_target_lc_3
+  DEP_FILE = CMakeFiles\lc_3.dir\day03_11_30\lc_206.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_3.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_3.dir\day03_11_30
+
+build CMakeFiles/lc_3.dir/day04_12_01/lc_88.cpp.obj: CXX_COMPILER__lc_3_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_88.cpp || cmake_object_order_depends_target_lc_3
+  DEP_FILE = CMakeFiles\lc_3.dir\day04_12_01\lc_88.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_3.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_3.dir\day04_12_01
+
+build CMakeFiles/lc_3.dir/day04_12_01/lc_103.cpp.obj: CXX_COMPILER__lc_3_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_103.cpp || cmake_object_order_depends_target_lc_3
+  DEP_FILE = CMakeFiles\lc_3.dir\day04_12_01\lc_103.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_3.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_3.dir\day04_12_01
+
+build CMakeFiles/lc_3.dir/day04_12_01/lc_23.cpp.obj: CXX_COMPILER__lc_3_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_23.cpp || cmake_object_order_depends_target_lc_3
+  DEP_FILE = CMakeFiles\lc_3.dir\day04_12_01\lc_23.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_3.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_3.dir\day04_12_01
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lc_3
+
+
+#############################################
+# Link the executable lc_3.exe
+
+build lc_3.exe: CXX_EXECUTABLE_LINKER__lc_3_Debug CMakeFiles/lc_3.dir/day03_11_30/lc_3.cpp.obj CMakeFiles/lc_3.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/lc_3.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/lc_3.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/lc_3.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/lc_3.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/lc_3.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/lc_3.dir/day02_11_03/LeetCode_232.cpp.obj CMakeFiles/lc_3.dir/day03_11_30/lc_206.cpp.obj CMakeFiles/lc_3.dir/day04_12_01/lc_88.cpp.obj CMakeFiles/lc_3.dir/day04_12_01/lc_103.cpp.obj CMakeFiles/lc_3.dir/day04_12_01/lc_23.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lc_3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lc_3.exe
+  TARGET_IMPLIB = liblc_3.dll.a
+  TARGET_PDB = lc_3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lc_103
+
+
+#############################################
+# Order-only phony target for lc_103
+
+build cmake_object_order_depends_target_lc_103: phony || CMakeFiles/lc_103.dir
+
+build CMakeFiles/lc_103.dir/day04_12_01/lc_103.cpp.obj: CXX_COMPILER__lc_103_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_103.cpp || cmake_object_order_depends_target_lc_103
+  DEP_FILE = CMakeFiles\lc_103.dir\day04_12_01\lc_103.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_103.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_103.dir\day04_12_01
+
+build CMakeFiles/lc_103.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER__lc_103_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day01_11_02/LeetCode_347.cpp || cmake_object_order_depends_target_lc_103
+  DEP_FILE = CMakeFiles\lc_103.dir\day01_11_02\LeetCode_347.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_103.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_103.dir\day01_11_02
+
+build CMakeFiles/lc_103.dir/day02_11_03/LeetCode_39.cpp.obj: CXX_COMPILER__lc_103_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_39.cpp || cmake_object_order_depends_target_lc_103
+  DEP_FILE = CMakeFiles\lc_103.dir\day02_11_03\LeetCode_39.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_103.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_103.dir\day02_11_03
+
+build CMakeFiles/lc_103.dir/day02_11_03/LeetCode_46.cpp.obj: CXX_COMPILER__lc_103_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_46.cpp || cmake_object_order_depends_target_lc_103
+  DEP_FILE = CMakeFiles\lc_103.dir\day02_11_03\LeetCode_46.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_103.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_103.dir\day02_11_03
+
+build CMakeFiles/lc_103.dir/day02_11_03/LeetCode_300.cpp.obj: CXX_COMPILER__lc_103_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_300.cpp || cmake_object_order_depends_target_lc_103
+  DEP_FILE = CMakeFiles\lc_103.dir\day02_11_03\LeetCode_300.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_103.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_103.dir\day02_11_03
+
+build CMakeFiles/lc_103.dir/day02_11_03/LeetCode_516.cpp.obj: CXX_COMPILER__lc_103_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_516.cpp || cmake_object_order_depends_target_lc_103
+  DEP_FILE = CMakeFiles\lc_103.dir\day02_11_03\LeetCode_516.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_103.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_103.dir\day02_11_03
+
+build CMakeFiles/lc_103.dir/day02_11_03/Leecode_200.cpp.obj: CXX_COMPILER__lc_103_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/Leecode_200.cpp || cmake_object_order_depends_target_lc_103
+  DEP_FILE = CMakeFiles\lc_103.dir\day02_11_03\Leecode_200.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_103.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_103.dir\day02_11_03
+
+build CMakeFiles/lc_103.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__lc_103_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_232.cpp || cmake_object_order_depends_target_lc_103
+  DEP_FILE = CMakeFiles\lc_103.dir\day02_11_03\LeetCode_232.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_103.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_103.dir\day02_11_03
+
+build CMakeFiles/lc_103.dir/day03_11_30/lc_3.cpp.obj: CXX_COMPILER__lc_103_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_3.cpp || cmake_object_order_depends_target_lc_103
+  DEP_FILE = CMakeFiles\lc_103.dir\day03_11_30\lc_3.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_103.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_103.dir\day03_11_30
+
+build CMakeFiles/lc_103.dir/day03_11_30/lc_206.cpp.obj: CXX_COMPILER__lc_103_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_206.cpp || cmake_object_order_depends_target_lc_103
+  DEP_FILE = CMakeFiles\lc_103.dir\day03_11_30\lc_206.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_103.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_103.dir\day03_11_30
+
+build CMakeFiles/lc_103.dir/day04_12_01/lc_88.cpp.obj: CXX_COMPILER__lc_103_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_88.cpp || cmake_object_order_depends_target_lc_103
+  DEP_FILE = CMakeFiles\lc_103.dir\day04_12_01\lc_88.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_103.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_103.dir\day04_12_01
+
+build CMakeFiles/lc_103.dir/day04_12_01/lc_23.cpp.obj: CXX_COMPILER__lc_103_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_23.cpp || cmake_object_order_depends_target_lc_103
+  DEP_FILE = CMakeFiles\lc_103.dir\day04_12_01\lc_23.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_103.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_103.dir\day04_12_01
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lc_103
+
+
+#############################################
+# Link the executable lc_103.exe
+
+build lc_103.exe: CXX_EXECUTABLE_LINKER__lc_103_Debug CMakeFiles/lc_103.dir/day04_12_01/lc_103.cpp.obj CMakeFiles/lc_103.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/lc_103.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/lc_103.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/lc_103.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/lc_103.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/lc_103.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/lc_103.dir/day02_11_03/LeetCode_232.cpp.obj CMakeFiles/lc_103.dir/day03_11_30/lc_3.cpp.obj CMakeFiles/lc_103.dir/day03_11_30/lc_206.cpp.obj CMakeFiles/lc_103.dir/day04_12_01/lc_88.cpp.obj CMakeFiles/lc_103.dir/day04_12_01/lc_23.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lc_103.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lc_103.exe
+  TARGET_IMPLIB = liblc_103.dll.a
+  TARGET_PDB = lc_103.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lc_23
+
+
+#############################################
+# Order-only phony target for lc_23
+
+build cmake_object_order_depends_target_lc_23: phony || CMakeFiles/lc_23.dir
+
+build CMakeFiles/lc_23.dir/day04_12_01/lc_23.cpp.obj: CXX_COMPILER__lc_23_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_23.cpp || cmake_object_order_depends_target_lc_23
+  DEP_FILE = CMakeFiles\lc_23.dir\day04_12_01\lc_23.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_23.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_23.dir\day04_12_01
+
+build CMakeFiles/lc_23.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER__lc_23_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day01_11_02/LeetCode_347.cpp || cmake_object_order_depends_target_lc_23
+  DEP_FILE = CMakeFiles\lc_23.dir\day01_11_02\LeetCode_347.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_23.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_23.dir\day01_11_02
+
+build CMakeFiles/lc_23.dir/day02_11_03/LeetCode_39.cpp.obj: CXX_COMPILER__lc_23_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_39.cpp || cmake_object_order_depends_target_lc_23
+  DEP_FILE = CMakeFiles\lc_23.dir\day02_11_03\LeetCode_39.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_23.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_23.dir\day02_11_03
+
+build CMakeFiles/lc_23.dir/day02_11_03/LeetCode_46.cpp.obj: CXX_COMPILER__lc_23_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_46.cpp || cmake_object_order_depends_target_lc_23
+  DEP_FILE = CMakeFiles\lc_23.dir\day02_11_03\LeetCode_46.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_23.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_23.dir\day02_11_03
+
+build CMakeFiles/lc_23.dir/day02_11_03/LeetCode_300.cpp.obj: CXX_COMPILER__lc_23_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_300.cpp || cmake_object_order_depends_target_lc_23
+  DEP_FILE = CMakeFiles\lc_23.dir\day02_11_03\LeetCode_300.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_23.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_23.dir\day02_11_03
+
+build CMakeFiles/lc_23.dir/day02_11_03/LeetCode_516.cpp.obj: CXX_COMPILER__lc_23_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_516.cpp || cmake_object_order_depends_target_lc_23
+  DEP_FILE = CMakeFiles\lc_23.dir\day02_11_03\LeetCode_516.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_23.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_23.dir\day02_11_03
+
+build CMakeFiles/lc_23.dir/day02_11_03/Leecode_200.cpp.obj: CXX_COMPILER__lc_23_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/Leecode_200.cpp || cmake_object_order_depends_target_lc_23
+  DEP_FILE = CMakeFiles\lc_23.dir\day02_11_03\Leecode_200.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_23.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_23.dir\day02_11_03
+
+build CMakeFiles/lc_23.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__lc_23_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_232.cpp || cmake_object_order_depends_target_lc_23
+  DEP_FILE = CMakeFiles\lc_23.dir\day02_11_03\LeetCode_232.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_23.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_23.dir\day02_11_03
+
+build CMakeFiles/lc_23.dir/day03_11_30/lc_3.cpp.obj: CXX_COMPILER__lc_23_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_3.cpp || cmake_object_order_depends_target_lc_23
+  DEP_FILE = CMakeFiles\lc_23.dir\day03_11_30\lc_3.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_23.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_23.dir\day03_11_30
+
+build CMakeFiles/lc_23.dir/day03_11_30/lc_206.cpp.obj: CXX_COMPILER__lc_23_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_206.cpp || cmake_object_order_depends_target_lc_23
+  DEP_FILE = CMakeFiles\lc_23.dir\day03_11_30\lc_206.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_23.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_23.dir\day03_11_30
+
+build CMakeFiles/lc_23.dir/day04_12_01/lc_88.cpp.obj: CXX_COMPILER__lc_23_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_88.cpp || cmake_object_order_depends_target_lc_23
+  DEP_FILE = CMakeFiles\lc_23.dir\day04_12_01\lc_88.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_23.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_23.dir\day04_12_01
+
+build CMakeFiles/lc_23.dir/day04_12_01/lc_103.cpp.obj: CXX_COMPILER__lc_23_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_103.cpp || cmake_object_order_depends_target_lc_23
+  DEP_FILE = CMakeFiles\lc_23.dir\day04_12_01\lc_103.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_23.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_23.dir\day04_12_01
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lc_23
+
+
+#############################################
+# Link the executable lc_23.exe
+
+build lc_23.exe: CXX_EXECUTABLE_LINKER__lc_23_Debug CMakeFiles/lc_23.dir/day04_12_01/lc_23.cpp.obj CMakeFiles/lc_23.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/lc_23.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/lc_23.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/lc_23.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/lc_23.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/lc_23.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/lc_23.dir/day02_11_03/LeetCode_232.cpp.obj CMakeFiles/lc_23.dir/day03_11_30/lc_3.cpp.obj CMakeFiles/lc_23.dir/day03_11_30/lc_206.cpp.obj CMakeFiles/lc_23.dir/day04_12_01/lc_88.cpp.obj CMakeFiles/lc_23.dir/day04_12_01/lc_103.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lc_23.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lc_23.exe
+  TARGET_IMPLIB = liblc_23.dll.a
+  TARGET_PDB = lc_23.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target lc_88
+
+
+#############################################
+# Order-only phony target for lc_88
+
+build cmake_object_order_depends_target_lc_88: phony || CMakeFiles/lc_88.dir
+
+build CMakeFiles/lc_88.dir/day04_12_01/lc_88.cpp.obj: CXX_COMPILER__lc_88_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_88.cpp || cmake_object_order_depends_target_lc_88
+  DEP_FILE = CMakeFiles\lc_88.dir\day04_12_01\lc_88.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_88.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_88.dir\day04_12_01
+
+build CMakeFiles/lc_88.dir/day01_11_02/LeetCode_347.cpp.obj: CXX_COMPILER__lc_88_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day01_11_02/LeetCode_347.cpp || cmake_object_order_depends_target_lc_88
+  DEP_FILE = CMakeFiles\lc_88.dir\day01_11_02\LeetCode_347.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_88.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_88.dir\day01_11_02
+
+build CMakeFiles/lc_88.dir/day02_11_03/LeetCode_39.cpp.obj: CXX_COMPILER__lc_88_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_39.cpp || cmake_object_order_depends_target_lc_88
+  DEP_FILE = CMakeFiles\lc_88.dir\day02_11_03\LeetCode_39.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_88.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_88.dir\day02_11_03
+
+build CMakeFiles/lc_88.dir/day02_11_03/LeetCode_46.cpp.obj: CXX_COMPILER__lc_88_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_46.cpp || cmake_object_order_depends_target_lc_88
+  DEP_FILE = CMakeFiles\lc_88.dir\day02_11_03\LeetCode_46.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_88.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_88.dir\day02_11_03
+
+build CMakeFiles/lc_88.dir/day02_11_03/LeetCode_300.cpp.obj: CXX_COMPILER__lc_88_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_300.cpp || cmake_object_order_depends_target_lc_88
+  DEP_FILE = CMakeFiles\lc_88.dir\day02_11_03\LeetCode_300.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_88.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_88.dir\day02_11_03
+
+build CMakeFiles/lc_88.dir/day02_11_03/LeetCode_516.cpp.obj: CXX_COMPILER__lc_88_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_516.cpp || cmake_object_order_depends_target_lc_88
+  DEP_FILE = CMakeFiles\lc_88.dir\day02_11_03\LeetCode_516.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_88.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_88.dir\day02_11_03
+
+build CMakeFiles/lc_88.dir/day02_11_03/Leecode_200.cpp.obj: CXX_COMPILER__lc_88_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/Leecode_200.cpp || cmake_object_order_depends_target_lc_88
+  DEP_FILE = CMakeFiles\lc_88.dir\day02_11_03\Leecode_200.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_88.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_88.dir\day02_11_03
+
+build CMakeFiles/lc_88.dir/day02_11_03/LeetCode_232.cpp.obj: CXX_COMPILER__lc_88_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day02_11_03/LeetCode_232.cpp || cmake_object_order_depends_target_lc_88
+  DEP_FILE = CMakeFiles\lc_88.dir\day02_11_03\LeetCode_232.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_88.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_88.dir\day02_11_03
+
+build CMakeFiles/lc_88.dir/day03_11_30/lc_3.cpp.obj: CXX_COMPILER__lc_88_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_3.cpp || cmake_object_order_depends_target_lc_88
+  DEP_FILE = CMakeFiles\lc_88.dir\day03_11_30\lc_3.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_88.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_88.dir\day03_11_30
+
+build CMakeFiles/lc_88.dir/day03_11_30/lc_206.cpp.obj: CXX_COMPILER__lc_88_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day03_11_30/lc_206.cpp || cmake_object_order_depends_target_lc_88
+  DEP_FILE = CMakeFiles\lc_88.dir\day03_11_30\lc_206.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_88.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_88.dir\day03_11_30
+
+build CMakeFiles/lc_88.dir/day04_12_01/lc_103.cpp.obj: CXX_COMPILER__lc_88_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_103.cpp || cmake_object_order_depends_target_lc_88
+  DEP_FILE = CMakeFiles\lc_88.dir\day04_12_01\lc_103.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_88.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_88.dir\day04_12_01
+
+build CMakeFiles/lc_88.dir/day04_12_01/lc_23.cpp.obj: CXX_COMPILER__lc_88_Debug C$:/Users/Lanture/CLionProjects/C++_Study/day04_12_01/lc_23.cpp || cmake_object_order_depends_target_lc_88
+  DEP_FILE = CMakeFiles\lc_88.dir\day04_12_01\lc_23.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\lc_88.dir
+  OBJECT_FILE_DIR = CMakeFiles\lc_88.dir\day04_12_01
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target lc_88
+
+
+#############################################
+# Link the executable lc_88.exe
+
+build lc_88.exe: CXX_EXECUTABLE_LINKER__lc_88_Debug CMakeFiles/lc_88.dir/day04_12_01/lc_88.cpp.obj CMakeFiles/lc_88.dir/day01_11_02/LeetCode_347.cpp.obj CMakeFiles/lc_88.dir/day02_11_03/LeetCode_39.cpp.obj CMakeFiles/lc_88.dir/day02_11_03/LeetCode_46.cpp.obj CMakeFiles/lc_88.dir/day02_11_03/LeetCode_300.cpp.obj CMakeFiles/lc_88.dir/day02_11_03/LeetCode_516.cpp.obj CMakeFiles/lc_88.dir/day02_11_03/Leecode_200.cpp.obj CMakeFiles/lc_88.dir/day02_11_03/LeetCode_232.cpp.obj CMakeFiles/lc_88.dir/day03_11_30/lc_3.cpp.obj CMakeFiles/lc_88.dir/day03_11_30/lc_206.cpp.obj CMakeFiles/lc_88.dir/day04_12_01/lc_103.cpp.obj CMakeFiles/lc_88.dir/day04_12_01/lc_23.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\lc_88.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = lc_88.exe
+  TARGET_IMPLIB = liblc_88.dll.a
+  TARGET_PDB = lc_88.exe.dbg
 
 
 #############################################
@@ -1100,6 +2015,16 @@ build TreeNode: phony TreeNode.exe
 
 build cmp: phony cmp.exe
 
+build lc_103: phony lc_103.exe
+
+build lc_206: phony lc_206.exe
+
+build lc_23: phony lc_23.exe
+
+build lc_3: phony lc_3.exe
+
+build lc_88: phony lc_88.exe
+
 build quickSort: phony quickSort.exe
 
 # =============================================================================
@@ -1110,7 +2035,7 @@ build quickSort: phony quickSort.exe
 #############################################
 # Folder: C:/Users/Lanture/CLionProjects/C++_Study/cmake-build-debug
 
-build all: phony CMakeCXXCompilerId.exe LeetCode_242.exe LeetCode_347.exe LeetCode_349.exe ListNode.exe TreeNode.exe cmp.exe quickSort.exe Leecode_200.exe LeetCode_232.exe LeetCode_300.exe LeetCode_39.exe LeetCode_46.exe LeetCode_516.exe
+build all: phony CMakeCXXCompilerId.exe LeetCode_242.exe LeetCode_347.exe LeetCode_349.exe ListNode.exe TreeNode.exe cmp.exe quickSort.exe Leecode_200.exe LeetCode_232.exe LeetCode_300.exe LeetCode_39.exe LeetCode_46.exe LeetCode_516.exe lc_206.exe lc_3.exe lc_103.exe lc_23.exe lc_88.exe
 
 # =============================================================================
 # Built-in targets

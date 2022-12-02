@@ -1,7 +1,9 @@
 //
 // Created by Lanture on 2022/11/2.
 //
-struct TreeNode{
+
+class TreeNode{
+public:
     int val;
     TreeNode *left,*right;
     TreeNode(){

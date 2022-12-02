@@ -12,5 +12,10 @@ C:/Users/Lanture/CLionProjects/C++_Study/cmake-build-debug/CMakeFiles/LeetCode_3
 C:/Users/Lanture/CLionProjects/C++_Study/cmake-build-debug/CMakeFiles/LeetCode_39.dir
 C:/Users/Lanture/CLionProjects/C++_Study/cmake-build-debug/CMakeFiles/LeetCode_46.dir
 C:/Users/Lanture/CLionProjects/C++_Study/cmake-build-debug/CMakeFiles/LeetCode_516.dir
+C:/Users/Lanture/CLionProjects/C++_Study/cmake-build-debug/CMakeFiles/lc_206.dir
+C:/Users/Lanture/CLionProjects/C++_Study/cmake-build-debug/CMakeFiles/lc_3.dir
+C:/Users/Lanture/CLionProjects/C++_Study/cmake-build-debug/CMakeFiles/lc_103.dir
+C:/Users/Lanture/CLionProjects/C++_Study/cmake-build-debug/CMakeFiles/lc_23.dir
+C:/Users/Lanture/CLionProjects/C++_Study/cmake-build-debug/CMakeFiles/lc_88.dir
 C:/Users/Lanture/CLionProjects/C++_Study/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/Lanture/CLionProjects/C++_Study/cmake-build-debug/CMakeFiles/rebuild_cache.dir
